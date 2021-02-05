@@ -1,14 +1,14 @@
 {
   "dsp_spec_version": "0.0.1",
   "last_updated_by": "Denys Rocha",
-  "last_updated": "2021-01-22T13:26:23.352Z",
+  "last_updated": "2021-02-05T19:57:03.103Z",
   "settings": {
-    "name": "Getrak-Design-System",
+    "name": "",
     "package_version": "0.0.1",
     "build_tool": "StyleDictionary",
-    "snippet_trigger_prefix": "gds-",
+    "snippet_trigger_prefix": "xd_",
     "build_status_label": "dev",
-    "build_params": "./config2.js",
+    "build_params": "./config.js",
     "languages": [
       {
         "label": "Coffeescript",
