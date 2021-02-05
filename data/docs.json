@@ -4,6 +4,16 @@
   "last_updated": "2021-02-05T19:57:03.103Z",
   "entities": [
     {
+      "id": "ec3b2980-f0eb-4d77-8e3f-9e40345781dd",
+      "class": "doc",
+      "type": "page",
+      "name": "Estilos de texto",
+      "description": "## Dispositivos web\n\nA [WCAG 2.0](https://www.w3.org/Translations/WCAG20-pt-br/WCAG20-pt-br-20141024/) (Web Content Accessibility Guidelines) recomenda que a fonte base do corpo de um texto na web não deve ser inferior a 12px (9pt), para que o mesmo seja legível e acessível. A mesma instituição recomenda o tamanho de fonte padrão em 16px (12pt). \n\nNa Getrak utilizaremos a fonte base Helvetica, 16px (12pt) como recomenado pela [WCAG 2.0 W3C](https://www.w3.org/Translations/WCAG20-pt-br/WCAG20-pt-br-20141024/), com uma escala de 16px x 1.125 para obter estilos de textos maiores e menores, como títulos, subtítulos, botões e legendas.\n\nA simulação pode ser feita através do site: [https://type-scale.com/](https://type-scale.com/)\n\n\n## Dispositivos mobile\n\nPara interfaces mobile, utilizaremos a fonte base Roboto, 18px (13.5pt), pois oferece ótima escaneabilidade para este tipo de dispositivo, e utilizamos uma escala de 18px x 1.125, o que nos dá uma variação muito menor entre o corpo do texto e o título, dando um uso mais otimzado do espaço da tela do usuário, mas permanecendo com a marcação da hieraquia dos estilos de texto.\n\nO site [Medium](https://medium.com/) foi uma referência para avaliar legibilidade de textos na web e mobile.",
+      "tags": [],
+      "last_updated": "2021-02-05T20:07:33.711Z",
+      "last_updated_by": "Denys Rocha"
+    },
+    {
       "class": "doc",
       "type": "page",
       "id": "D5BB331A-2483-4CC5-BCB7-82FFDC412B36",
@@ -18,16 +28,6 @@
       "name": "Principles",
       "description": "Edit this with the pencil icon. \n\n[Markdown](https://commonmark.org/help/) is supported to help you create great documentation for your design system.",
       "tags": []
-    },
-    {
-      "id": "ec3b2980-f0eb-4d77-8e3f-9e40345781dd",
-      "class": "doc",
-      "type": "page",
-      "name": "Tipografia",
-      "description": "## Dispositivos web\n\nA [WCAG 2.0](https://www.w3.org/Translations/WCAG20-pt-br/WCAG20-pt-br-20141024/) (Web Content Accessibility Guidelines) recomenda que a fonte base do corpo de um texto na web não deve ser inferior a 12px (9pt), para que o mesmo seja legível e acessível. A mesma instituição recomenda o tamanho de fonte padrão em 16px (12pt). \n\nNa Getrak utilizaremos a fonte base Helvetica, 16px (12pt) como recomenado pela [WCAG 2.0 W3C](https://www.w3.org/Translations/WCAG20-pt-br/WCAG20-pt-br-20141024/), com uma escala de 16px x 1.125 para obter estilos de textos maiores e menores, como títulos, subtítulos, botões e legendas.\n\nA simulação pode ser feita através do site: [https://type-scale.com/](https://type-scale.com/)\n\n\n## Dispositivos mobile\n\nPara interfaces mobile, utilizaremos a fonte base Roboto, 18px (13.5pt), pois oferece ótima escaneabilidade para este tipo de dispositivo, e utilizamos uma escala de 18px x 1.125, o que nos dá uma variação muito menor entre o corpo do texto e o título, dando um uso mais otimzado do espaço da tela do usuário, mas permanecendo com a marcação da hieraquia dos estilos de texto.\n\nO site [Medium](https://medium.com/) foi uma referência para avaliar legibilidade de textos na web e mobile.",
-      "tags": [],
-      "last_updated": "2021-02-05T20:06:02.259Z",
-      "last_updated_by": "Denys Rocha"
     }
   ]
 }
