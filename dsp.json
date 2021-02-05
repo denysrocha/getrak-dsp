@@ -3,12 +3,12 @@
   "last_updated_by": "Denys Rocha",
   "last_updated": "2021-02-05T19:57:03.103Z",
   "settings": {
-    "name": "",
+    "name": "getrak-dsp",
     "package_version": "0.0.1",
     "build_tool": "StyleDictionary",
-    "snippet_trigger_prefix": "xd_",
+    "snippet_trigger_prefix": "gds-",
     "build_status_label": "dev",
-    "build_params": "./config.js",
+    "build_params": "./config2.js",
     "languages": [
       {
         "label": "Coffeescript",

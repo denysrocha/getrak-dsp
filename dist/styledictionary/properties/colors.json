@@ -1,5 +1,8 @@
 {
   "color": {
+    "gds-purple": {
+      "value": "#751068ff"
+    },
     "gds-dark": {
       "value": "#212529ff"
     },
@@ -23,9 +26,6 @@
     },
     "gds-primary": {
       "value": "#0D6EFDff"
-    },
-    "gds-purple": {
-      "value": "#751068ff"
     }
   }
 }
