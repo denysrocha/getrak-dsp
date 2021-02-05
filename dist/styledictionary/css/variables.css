@@ -1,0 +1,49 @@
+/**
+ * Do not edit directly
+ * Generated on Fri, 05 Feb 2021 18:37:06 GMT
+ */
+
+:root {
+  --gds-dark: #212529;
+  --gds-light: #f8f9fa;
+  --gds-info: #0dcaf0;
+  --gds-danger: #dc3545;
+  --gds-warning: #ffc107;
+  --gds-success: #198754;
+  --gds-secondary: #6c757d;
+  --gds-primary: #0d6efd;
+  --gds-purple: #751068;
+  --gds-h-1-web-family: Helvetica;
+  --gds-h-1-web-weight: Light;
+  --gds-texto-2-web-family: Helvetica;
+  --gds-texto-2-web-weight: Regular;
+  --gds-h-3-web-h-4-mobile-family: Helvetica;
+  --gds-h-3-web-h-4-mobile-weight: Regular;
+  --gds-legenda-family: Helvetica;
+  --gds-legenda-weight: Regular;
+  --gds-h-2-web-h-3-mobile-family: Helvetica;
+  --gds-h-2-web-h-3-mobile-weight: Regular;
+  --gds-texto-web-texto-2-mobile-family: Helvetica;
+  --gds-texto-web-texto-2-mobile-weight: Regular;
+  --gds-h-4-web-family: Helvetica;
+  --gds-h-4-web-weight: Regular;
+  --gds-h-1-mobile-family: Helvetica;
+  --gds-h-1-mobile-weight: Light;
+  --gds-h-2-mobile-family: Helvetica;
+  --gds-h-2-mobile-weight: Regular;
+  --gds-h-5-mobile-family: Helvetica;
+  --gds-h-5-mobile-weight: Regular;
+  --gds-h-5-web-texto-mobile-family: Helvetica;
+  --gds-h-5-web-texto-mobile-weight: Regular;
+  --gds-h-1-web-size: 28.829999923706055px;
+  --gds-texto-2-web-size: 14.220000267028809px;
+  --gds-h-3-web-h-4-mobile-size: 22.780000686645508px;
+  --gds-legenda-size: 12.640000343322754px;
+  --gds-h-2-web-h-3-mobile-size: 25.6299991607666px;
+  --gds-texto-web-texto-2-mobile-size: 16px;
+  --gds-h-4-web-size: 20.299999237060547px;
+  --gds-h-1-mobile-size: 32.439998626708984px;
+  --gds-h-2-mobile-size: 28.829999923706055px;
+  --gds-h-5-mobile-size: 20.25px;
+  --gds-h-5-web-texto-mobile-size: 18px;
+}

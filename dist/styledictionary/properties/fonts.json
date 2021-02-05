@@ -1,0 +1,129 @@
+{
+  "font": {
+    "gds-h1-web": {
+      "family": {
+        "value": "Helvetica"
+      },
+      "weight": {
+        "value": "Light"
+      }
+    },
+    "gds-texto-2-web": {
+      "family": {
+        "value": "Helvetica"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "gds-h3-web-h4-mobile": {
+      "family": {
+        "value": "Helvetica"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "gds-legenda": {
+      "family": {
+        "value": "Helvetica"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "gds-h2-web-h3-mobile": {
+      "family": {
+        "value": "Helvetica"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "gds-texto-web-texto-2-mobile": {
+      "family": {
+        "value": "Helvetica"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "gds-h4-web": {
+      "family": {
+        "value": "Helvetica"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "gds-h1-mobile": {
+      "family": {
+        "value": "Helvetica"
+      },
+      "weight": {
+        "value": "Light"
+      }
+    },
+    "gds-h2-mobile": {
+      "family": {
+        "value": "Helvetica"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "gds-h5-mobile": {
+      "family": {
+        "value": "Helvetica"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "gds-h5-web-texto-mobile": {
+      "family": {
+        "value": "Helvetica"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    }
+  },
+  "size": {
+    "font": {
+      "gds-h1-web": {
+        "value": "28.829999923706055"
+      },
+      "gds-texto-2-web": {
+        "value": "14.220000267028809"
+      },
+      "gds-h3-web-h4-mobile": {
+        "value": "22.780000686645508"
+      },
+      "gds-legenda": {
+        "value": "12.640000343322754"
+      },
+      "gds-h2-web-h3-mobile": {
+        "value": "25.6299991607666"
+      },
+      "gds-texto-web-texto-2-mobile": {
+        "value": "16"
+      },
+      "gds-h4-web": {
+        "value": "20.299999237060547"
+      },
+      "gds-h1-mobile": {
+        "value": "32.439998626708984"
+      },
+      "gds-h2-mobile": {
+        "value": "28.829999923706055"
+      },
+      "gds-h5-mobile": {
+        "value": "20.25"
+      },
+      "gds-h5-web-texto-mobile": {
+        "value": "18"
+      }
+    }
+  }
+}

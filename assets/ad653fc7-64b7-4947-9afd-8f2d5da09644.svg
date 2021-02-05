@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="350" height="263" viewBox="0 0 350 263">
+  <defs>
+    <filter id="Retângulo_1" x="0" y="0" width="350" height="263" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="gds-card" transform="translate(30 16)">
+    <g transform="matrix(1, 0, 0, 1, -30, -16)" filter="url(#Retângulo_1)">
+      <rect id="Retângulo_1-2" data-name="Retângulo 1" width="290" height="203" rx="16" transform="translate(30 20)" fill="#fff"/>
+    </g>
+    <g id="gds-button-purple" transform="translate(16 150)">
+      <rect id="gds-primary" width="139" height="41" rx="12" fill="#751068"/>
+      <text id="Go_somewhere" data-name="Go somewhere" transform="translate(16 27)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Go somewhere</tspan></text>
+    </g>
+    <text id="Some_quick_example_text_to_build_on_the_card_title_and_make_up_the_bulk_of_card_s_content." data-name="Some quick example text to build on the card title and make up the bulk of card’s content." transform="translate(16 64)" fill="#212529" font-size="16" font-family="Helvetica"><tspan x="0" y="12">Some quick example text to build on </tspan><tspan x="0" y="31">the card title and make up the bulk </tspan><tspan x="0" y="50">of card’s content.</tspan></text>
+    <text id="Card_Title" data-name="Card Title" transform="translate(16 20)" fill="#212529" font-size="24" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="22">Card Title</tspan></text>
+  </g>
+</svg>

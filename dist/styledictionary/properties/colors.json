@@ -1,0 +1,31 @@
+{
+  "color": {
+    "gds-dark": {
+      "value": "#212529ff"
+    },
+    "gds-light": {
+      "value": "#F8F9FAff"
+    },
+    "gds-info": {
+      "value": "#0DCAF0ff"
+    },
+    "gds-danger": {
+      "value": "#DC3545ff"
+    },
+    "gds-warning": {
+      "value": "#FFC107ff"
+    },
+    "gds-success": {
+      "value": "#198754ff"
+    },
+    "gds-secondary": {
+      "value": "#6C757Dff"
+    },
+    "gds-primary": {
+      "value": "#0D6EFDff"
+    },
+    "gds-purple": {
+      "value": "#751068ff"
+    }
+  }
+}

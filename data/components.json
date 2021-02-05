@@ -1,0 +1,87 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "Denys Rocha",
+  "last_updated": "2021-01-22T13:26:23.352Z",
+  "entities": [
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "e88855aa-9e02-49f7-b522-728ca5bafad0",
+      "related_entity_ids": [
+        "ad933e12-ea30-4926-92c8-f920bea591f8",
+        "423bf79d-5cce-463f-a721-46d1a1653a3d"
+      ],
+      "snippets": {
+        "trigger": "button-primary",
+        "languages": {
+          "javascript": "<b-button variant=\"primary\">Ação</b-button>",
+          "html": "<button class=\"btn btn-primary\">Ação</button>"
+        }
+      },
+      "name": "gds-button-primary",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "e1f4521b-569b-4181-b8d1-bc662f3ffb70",
+        "last_sync": "2021-01-29T11:50:46.675Z",
+        "sync": true
+      },
+      "last_updated": "2021-02-03T19:43:02.754Z",
+      "last_updated_by": "Denys Rocha",
+      "description": "Explicação do componente botão"
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "a6059108-ad8f-4455-9e4a-8d648f3ffcba",
+      "related_entity_ids": [
+        "172d834e-6740-4ab1-a80b-039af09e2b1b",
+        "423bf79d-5cce-463f-a721-46d1a1653a3d"
+      ],
+      "snippets": {
+        "trigger": "button-purple",
+        "languages": {
+          "javascript": "<b-button variant=\"purple\">Ação</b-button>",
+          "html": "<button class=\"btn btn-purple\">Ação</button>"
+        }
+      },
+      "name": "gds-button-purple",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "e7c06e28-f1e6-42b1-8756-fbfac863eb03",
+        "last_sync": "2021-01-29T11:50:46.675Z",
+        "sync": true
+      },
+      "last_updated": "2021-02-04T18:15:45.576Z",
+      "last_updated_by": "Denys Rocha",
+      "description": "Botão alternativo para ações específicas"
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "f59e9d8a-af37-4739-8f63-4704ad842627",
+      "related_entity_ids": [
+        "423bf79d-5cce-463f-a721-46d1a1653a3d",
+        "81c056af-cf64-4863-b46a-d508f75f0fdc"
+      ],
+      "snippets": {
+        "trigger": "card",
+        "languages": {
+          "javascript": "<b-card\n  tag=\"article\"\n  class=\"mb-2 shadow border-0\"\n  style=\"max-width: 20rem;\"\n >\n  <b-card-title class=\"gds-h4-web\">\n  \tCard Title\n  </b-card-title>\n  <b-card-text class=\"gds-texto-web\">\n      Some quick example text to build on the card title and make up the bulk of the card's content.\n  </b-card-text>\n\n  <b-button href=\"#\" variant=\"purple\">Go somewhere</b-button>\n</b-card>"
+        }
+      },
+      "name": "gds-card",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "ad653fc7-64b7-4947-9afd-8f2d5da09644",
+        "last_sync": "2021-01-29T18:16:44.594Z",
+        "sync": true
+      },
+      "last_updated": "2021-02-05T14:24:03.750Z",
+      "last_updated_by": "Denys Rocha",
+      "description": "Assim deve funcionar o card padrão...\n\nVocê não deve usar o card nas seguintes situações:\n..."
+    }
+  ]
+}
