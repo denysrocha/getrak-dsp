@@ -9,18 +9,16 @@ Se possível, assista uma pequena [lista de vídeos](https://letsxd.com/vscode) 
 
 
 ## O que está no pacote?
-Os design tokens estão disponíveis na pasta `/dist` para CSS, SCSS e JavaScript.
+Os design tokens estão disponíveis na pasta `/dist/styledictonary` para CSS, SCSS e JavaScript.
 Os code snippets estão disponíveis para JavaScript Vue, HTML e Javascript React. No caso do Vue, estamos utilizando como base o [BootstrapVue](https://bootstrap-vue.org/), e customizando o tema do Bootstrap via arquivo SCSS, portanto se faz necessário instalar [este pacote](https://www.npmjs.com/package/bootstrap-vue).
 
 
 ## Como posso usar o getrak-dsp?
-O `getrak-dsp` não cria os componentes para você, ele é uma documentação viva acessível por atalhos, portanto, seu projeto deve conter os componentes que os code snippets estejam chamando, assim como suas dependências. Como no caso citado (BootstrapVue), onde você terá um arquivo `.scss` importando o Bootstrap e customizando algumas de suas variáveis através dos design tokens.
-
-Os design tokens estão acessíveis através da pasta `/styledictonary`, onde você pode encontrar os mesmos tokens nas diversas linguagens, para usar como lhe for mais útil.
+O `getrak-dsp` não cria os componentes para você, ele é uma documentação viva acessível por atalhos, portanto, seu projeto deve conter os componentes que os `code snippets` estejam chamando, assim como suas dependências. Como no caso citado (BootstrapVue), onde você terá um arquivo `.scss` importando o Bootstrap e customizando algumas de suas variáveis através dos design tokens. Os design tokens estão acessíveis para que você faça o melhor uso nos seus componentes customizados ou para customizar algum framework, como no exemplo.
 
 ![GitHub Logo](assets/uso-getrak-dsp.png)
 
 Veja como o `getrak-dsp` está sendo utilizado em um [projeto Vue](https://github.com/denysrocha/poc-gds-design-system), tendo como base o [BootstrapVue](https://bootstrap-vue.org/)
 
 ## Feedback
-Para perguntas, problemas ou feedback, por favor abra uma [`issue` aqui](https://github.com/denysrocha/getrak-dsp/issues)
+Para perguntas, problemas ou feedback, por favor abra uma [issue aqui](https://github.com/denysrocha/getrak-dsp/issues)
