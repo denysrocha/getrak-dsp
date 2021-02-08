@@ -1,7 +1,7 @@
 # getrak-dsp beta
-Getrak Design System Package
+Getrak Design System Package beta é a especificação da criação de novos produtos Getrak, contendo uma documentação viva em constante evolução, para que designers, desenvolvedores e PM/POs estejam sempre alinhados na criação de produtos com maior escala, consistência e agilidade.
 
-## Como enxergar o getrak-dsp?
+## Como enxergar o getrak-dsp no meu ambiente?
 Faça o download do projeto na sua máquina, deixe o pacote ao lado da pasta do seu projeto.
 Agora que você tem o `getrak-dsp`, você deve instalar o [Adobe XD extenstion](https://marketplace.visualstudio.com/items?itemName=Adobe.xd&ssr=false#overview) no seu ambiente VS Code para abrir qualquer pacote dsp. Depois de instalar a extensão, abra o painel do Adobe XD e selecione a opção `Load package`. Então navegue à pasta que se encontra o `getrak-dsp` (DSPs contem um arquivo dsp.json no nível raiz) e selecione-a. Pule as etapas de cópia de arquivos e pronto! Você já pode visualizar Getrak Design System :D
 
