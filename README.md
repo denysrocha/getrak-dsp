@@ -1,4 +1,4 @@
-# getrak-dsp
+# getrak-dsp beta
 Getrak Design System Package
 
 ## Como enxergar o getrak-dsp?
