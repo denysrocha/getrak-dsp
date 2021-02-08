@@ -16,7 +16,7 @@ Os code snippets estão disponíveis para JavaScript Vue, HTML e Javascript Reac
 ## Como posso usar o getrak-dsp?
 O `getrak-dsp` não cria os componentes para você, ele é uma documentação viva acessível por atalhos, portanto, seu projeto deve conter os componentes que os `code snippets` estejam chamando, assim como suas dependências. Como no caso citado (BootstrapVue), onde você terá um arquivo `.scss` importando o Bootstrap e customizando algumas de suas variáveis através dos design tokens. Os design tokens estão acessíveis para que você faça o melhor uso nos seus componentes customizados ou para customizar algum framework, como no exemplo.
 
-![GitHub Logo](assets/uso-getrak-dsp.png)
+![Utilização do getrak-dsp](assets/uso-getrak-dsp.png)
 
 Veja como o `getrak-dsp` está sendo utilizado em um [projeto Vue](https://github.com/denysrocha/poc-gds-design-system), tendo como base o [BootstrapVue](https://bootstrap-vue.org/)
 
