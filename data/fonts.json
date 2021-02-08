@@ -6,30 +6,30 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "ee21e577-97ef-4fe6-8d0b-ea599d8014e2",
+      "id": "b4032810-0f8c-4eb4-bee1-12cd1bdc8f15",
       "name": "gds-h5-web-texto-mobile",
       "tags": [],
       "ext-com_adobe-cclib": {
         "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
         "id": "cf22c5a6-4b02-4e0c-9b3b-67678c0f40ad",
-        "last_sync": "2021-02-05T19:59:25.120Z",
+        "last_sync": "2021-02-08T18:25:16.138Z",
         "sync": true
       },
       "tokens": [
         {
-          "id": "d8300016-2c72-4f87-a5ee-bc5571785a90",
+          "id": "b4032810-0f8c-4eb4-bee1-12cd1bdc8f15",
           "type": "custom",
           "value": "Helvetica",
           "key": "family"
         },
         {
-          "id": "d8300016-2c72-4f87-a5ee-bc5571785a90",
+          "id": "b4032810-0f8c-4eb4-bee1-12cd1bdc8f15",
           "type": "custom",
           "value": "Regular",
           "key": "weight"
         },
         {
-          "id": "d8300016-2c72-4f87-a5ee-bc5571785a90",
+          "id": "b4032810-0f8c-4eb4-bee1-12cd1bdc8f15",
           "type": "size",
           "value": "18",
           "key": "size"
@@ -39,30 +39,30 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "a83b3c9a-27b0-4c44-bb98-792403732653",
+      "id": "1900d699-8292-4473-a92b-41c6dd3b69e0",
       "name": "gds-legenda",
       "tags": [],
       "ext-com_adobe-cclib": {
         "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
         "id": "e6b51215-c8f8-4f54-bd67-7fbf905bf023",
-        "last_sync": "2021-02-05T19:59:25.120Z",
+        "last_sync": "2021-02-08T18:25:16.138Z",
         "sync": true
       },
       "tokens": [
         {
-          "id": "09c1fcf9-e1ed-4832-a000-1563f9e1c61c",
+          "id": "1900d699-8292-4473-a92b-41c6dd3b69e0",
           "type": "custom",
           "value": "Helvetica",
           "key": "family"
         },
         {
-          "id": "09c1fcf9-e1ed-4832-a000-1563f9e1c61c",
+          "id": "1900d699-8292-4473-a92b-41c6dd3b69e0",
           "type": "custom",
           "value": "Regular",
           "key": "weight"
         },
         {
-          "id": "09c1fcf9-e1ed-4832-a000-1563f9e1c61c",
+          "id": "1900d699-8292-4473-a92b-41c6dd3b69e0",
           "type": "size",
           "value": "12.640000343322754",
           "key": "size"
@@ -72,30 +72,30 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "a4c49950-e295-4c25-81fb-c836556912b2",
+      "id": "171c3f01-eb28-4864-af39-a7c89924742d",
       "name": "gds-h4-web",
       "tags": [],
       "ext-com_adobe-cclib": {
         "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
         "id": "09d8bc93-a0e6-431a-abb5-ff5c542938ec",
-        "last_sync": "2021-02-05T19:59:25.120Z",
+        "last_sync": "2021-02-08T18:25:16.138Z",
         "sync": true
       },
       "tokens": [
         {
-          "id": "b4f1a93c-8c26-4614-9a67-cdfa60eca853",
+          "id": "171c3f01-eb28-4864-af39-a7c89924742d",
           "type": "custom",
           "value": "Helvetica",
           "key": "family"
         },
         {
-          "id": "b4f1a93c-8c26-4614-9a67-cdfa60eca853",
+          "id": "171c3f01-eb28-4864-af39-a7c89924742d",
           "type": "custom",
           "value": "Regular",
           "key": "weight"
         },
         {
-          "id": "b4f1a93c-8c26-4614-9a67-cdfa60eca853",
+          "id": "171c3f01-eb28-4864-af39-a7c89924742d",
           "type": "size",
           "value": "20.299999237060547",
           "key": "size"
@@ -105,30 +105,30 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "c82d2555-62f4-4870-b89e-264b1a624c58",
+      "id": "ad45e2ce-14a7-4940-9ab9-d46cf62ccd32",
       "name": "gds-h3-web-h4-mobile",
       "tags": [],
       "ext-com_adobe-cclib": {
         "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
         "id": "369a71fd-23b9-4d03-8188-4cdec80be239",
-        "last_sync": "2021-02-05T19:59:25.120Z",
+        "last_sync": "2021-02-08T18:25:16.138Z",
         "sync": true
       },
       "tokens": [
         {
-          "id": "a328cdcd-dcd0-429c-ac92-e676de80c352",
+          "id": "ad45e2ce-14a7-4940-9ab9-d46cf62ccd32",
           "type": "custom",
           "value": "Helvetica",
           "key": "family"
         },
         {
-          "id": "a328cdcd-dcd0-429c-ac92-e676de80c352",
+          "id": "ad45e2ce-14a7-4940-9ab9-d46cf62ccd32",
           "type": "custom",
           "value": "Regular",
           "key": "weight"
         },
         {
-          "id": "a328cdcd-dcd0-429c-ac92-e676de80c352",
+          "id": "ad45e2ce-14a7-4940-9ab9-d46cf62ccd32",
           "type": "size",
           "value": "22.780000686645508",
           "key": "size"
@@ -138,30 +138,30 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "0c3acf0b-94ce-4787-b7fa-603d45410e86",
+      "id": "c4e94a71-8199-404f-b477-956245658651",
       "name": "gds-h2-mobile",
       "tags": [],
       "ext-com_adobe-cclib": {
         "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
         "id": "21ced92e-bc54-41f7-aebd-f54e9881ba75",
-        "last_sync": "2021-02-05T19:59:25.120Z",
+        "last_sync": "2021-02-08T18:25:16.138Z",
         "sync": true
       },
       "tokens": [
         {
-          "id": "0f0d4677-d109-4587-89d5-0d8864ed1410",
+          "id": "c4e94a71-8199-404f-b477-956245658651",
           "type": "custom",
           "value": "Helvetica",
           "key": "family"
         },
         {
-          "id": "0f0d4677-d109-4587-89d5-0d8864ed1410",
+          "id": "c4e94a71-8199-404f-b477-956245658651",
           "type": "custom",
           "value": "Regular",
           "key": "weight"
         },
         {
-          "id": "0f0d4677-d109-4587-89d5-0d8864ed1410",
+          "id": "c4e94a71-8199-404f-b477-956245658651",
           "type": "size",
           "value": "28.829999923706055",
           "key": "size"
@@ -171,30 +171,30 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "8cfb4aa4-ea74-48f7-85a4-2c3f910b3a0b",
+      "id": "0a88c57e-bfe4-48ca-86fc-6c0a02c3134c",
       "name": "gds-texto-web-texto-2-mobile",
       "tags": [],
       "ext-com_adobe-cclib": {
         "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
         "id": "1ab00ddd-68cc-4bd1-96cd-6187b7ded20d",
-        "last_sync": "2021-02-05T19:59:25.120Z",
+        "last_sync": "2021-02-08T18:25:16.138Z",
         "sync": true
       },
       "tokens": [
         {
-          "id": "cc32c8b4-50f7-4572-a30d-870f297b0bc2",
+          "id": "0a88c57e-bfe4-48ca-86fc-6c0a02c3134c",
           "type": "custom",
           "value": "Helvetica",
           "key": "family"
         },
         {
-          "id": "cc32c8b4-50f7-4572-a30d-870f297b0bc2",
+          "id": "0a88c57e-bfe4-48ca-86fc-6c0a02c3134c",
           "type": "custom",
           "value": "Regular",
           "key": "weight"
         },
         {
-          "id": "cc32c8b4-50f7-4572-a30d-870f297b0bc2",
+          "id": "0a88c57e-bfe4-48ca-86fc-6c0a02c3134c",
           "type": "size",
           "value": "16",
           "key": "size"
@@ -204,30 +204,30 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "19932fec-5dfe-4250-baca-b3239bbcee44",
+      "id": "0390b581-09df-4533-b3f2-83b72e4ae302",
       "name": "gds-h5-mobile",
       "tags": [],
       "ext-com_adobe-cclib": {
         "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
         "id": "a6754652-dd70-4395-af38-beb0c39d2dc4",
-        "last_sync": "2021-02-05T19:59:25.120Z",
+        "last_sync": "2021-02-08T18:25:16.138Z",
         "sync": true
       },
       "tokens": [
         {
-          "id": "c1e15162-e72c-4753-807d-e5b69a0bc340",
+          "id": "0390b581-09df-4533-b3f2-83b72e4ae302",
           "type": "custom",
           "value": "Helvetica",
           "key": "family"
         },
         {
-          "id": "c1e15162-e72c-4753-807d-e5b69a0bc340",
+          "id": "0390b581-09df-4533-b3f2-83b72e4ae302",
           "type": "custom",
           "value": "Regular",
           "key": "weight"
         },
         {
-          "id": "c1e15162-e72c-4753-807d-e5b69a0bc340",
+          "id": "0390b581-09df-4533-b3f2-83b72e4ae302",
           "type": "size",
           "value": "20.25",
           "key": "size"
@@ -237,30 +237,30 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "52fde713-5aab-4143-b323-385c512f48b2",
+      "id": "2a1f198a-a5e1-4fdf-b1ed-6c2c11f9edc6",
       "name": "gds-h2-web-h3-mobile",
       "tags": [],
       "ext-com_adobe-cclib": {
         "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
         "id": "429d5072-9e04-41b4-bffc-6db991f962c5",
-        "last_sync": "2021-02-05T19:59:25.120Z",
+        "last_sync": "2021-02-08T18:25:16.138Z",
         "sync": true
       },
       "tokens": [
         {
-          "id": "cdf3fbb0-19ea-4cda-aeb4-0d6f1b83e4f5",
+          "id": "2a1f198a-a5e1-4fdf-b1ed-6c2c11f9edc6",
           "type": "custom",
           "value": "Helvetica",
           "key": "family"
         },
         {
-          "id": "cdf3fbb0-19ea-4cda-aeb4-0d6f1b83e4f5",
+          "id": "2a1f198a-a5e1-4fdf-b1ed-6c2c11f9edc6",
           "type": "custom",
           "value": "Regular",
           "key": "weight"
         },
         {
-          "id": "cdf3fbb0-19ea-4cda-aeb4-0d6f1b83e4f5",
+          "id": "2a1f198a-a5e1-4fdf-b1ed-6c2c11f9edc6",
           "type": "size",
           "value": "25.6299991607666",
           "key": "size"
@@ -270,30 +270,30 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "12dd5268-868f-4af5-92bc-f082879510f6",
+      "id": "d956fdce-1019-430e-ab44-caa9031ae810",
       "name": "gds-h1-mobile",
       "tags": [],
       "ext-com_adobe-cclib": {
         "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
         "id": "5189d07f-7524-4a80-992c-089384325d51",
-        "last_sync": "2021-02-05T19:59:25.120Z",
+        "last_sync": "2021-02-08T18:25:16.138Z",
         "sync": true
       },
       "tokens": [
         {
-          "id": "9d88ece9-f691-4c05-914d-ac05d354b329",
+          "id": "d956fdce-1019-430e-ab44-caa9031ae810",
           "type": "custom",
           "value": "Helvetica",
           "key": "family"
         },
         {
-          "id": "9d88ece9-f691-4c05-914d-ac05d354b329",
+          "id": "d956fdce-1019-430e-ab44-caa9031ae810",
           "type": "custom",
           "value": "Light",
           "key": "weight"
         },
         {
-          "id": "9d88ece9-f691-4c05-914d-ac05d354b329",
+          "id": "d956fdce-1019-430e-ab44-caa9031ae810",
           "type": "size",
           "value": "32.439998626708984",
           "key": "size"
@@ -303,30 +303,30 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "401a86bb-f3c2-40fb-9e2f-23fc2ad78d81",
+      "id": "08b67178-055a-4858-ba8b-e3f38125226b",
       "name": "gds-texto-2-web",
       "tags": [],
       "ext-com_adobe-cclib": {
         "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
         "id": "4866d8fe-0ca2-403b-beb8-3aba9eacdfce",
-        "last_sync": "2021-02-05T19:59:25.120Z",
+        "last_sync": "2021-02-08T18:25:16.138Z",
         "sync": true
       },
       "tokens": [
         {
-          "id": "3bb89f90-7181-451b-9610-8ccbe246bbe0",
+          "id": "08b67178-055a-4858-ba8b-e3f38125226b",
           "type": "custom",
           "value": "Helvetica",
           "key": "family"
         },
         {
-          "id": "3bb89f90-7181-451b-9610-8ccbe246bbe0",
+          "id": "08b67178-055a-4858-ba8b-e3f38125226b",
           "type": "custom",
           "value": "Regular",
           "key": "weight"
         },
         {
-          "id": "3bb89f90-7181-451b-9610-8ccbe246bbe0",
+          "id": "08b67178-055a-4858-ba8b-e3f38125226b",
           "type": "size",
           "value": "14.220000267028809",
           "key": "size"
@@ -336,30 +336,30 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "e359b7d6-f909-48d0-bc7d-d84360db4f42",
+      "id": "7bbd30ec-5333-428c-bc33-78ff1f89fc94",
       "name": "gds-h1-web",
       "tags": [],
       "ext-com_adobe-cclib": {
         "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
         "id": "7a8fec6c-2fb9-4607-8f19-f9ccebcdb23e",
-        "last_sync": "2021-02-05T19:59:25.120Z",
+        "last_sync": "2021-02-08T18:25:16.138Z",
         "sync": true
       },
       "tokens": [
         {
-          "id": "76154e0e-e17a-4a38-a47f-f9453c871295",
+          "id": "7bbd30ec-5333-428c-bc33-78ff1f89fc94",
           "type": "custom",
           "value": "Helvetica",
           "key": "family"
         },
         {
-          "id": "76154e0e-e17a-4a38-a47f-f9453c871295",
+          "id": "7bbd30ec-5333-428c-bc33-78ff1f89fc94",
           "type": "custom",
           "value": "Light",
           "key": "weight"
         },
         {
-          "id": "76154e0e-e17a-4a38-a47f-f9453c871295",
+          "id": "7bbd30ec-5333-428c-bc33-78ff1f89fc94",
           "type": "size",
           "value": "28.829999923706055",
           "key": "size"
