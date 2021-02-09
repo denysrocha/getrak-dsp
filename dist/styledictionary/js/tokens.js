@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 05 Feb 2021 20:20:22 GMT
+ * Generated on Tue, 09 Feb 2021 12:39:36 GMT
  */
 
 export const GdsPurple = "#751068";
