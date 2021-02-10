@@ -1,31 +1,126 @@
 {
   "color": {
-    "gds-purple": {
-      "value": "#751068ff"
+    "gds-tema-azul": {
+      "value": "{color.gds-azul-brilhante-base.value}",
+      "comment": "Cor para ações primárias"
     },
-    "gds-dark": {
-      "value": "#212529ff"
+    "gds-tema-neutro": {
+      "value": "{color.gds-cinza-claro.value}"
     },
-    "gds-light": {
-      "value": "#F8F9FAff"
+    "gds-tema-verde": {
+      "value": "{color.gds-verde-ciano.value}",
+      "comment": "Cor usada para ações que indicam sucesso, disponibilidade ou acessibilidade de r"
     },
-    "gds-info": {
-      "value": "#0DCAF0ff"
+    "gds-tema-amarelo": {
+      "value": "{color.gds-amarelo-beer.value}",
+      "comment": "Cor usada para avisos"
     },
-    "gds-danger": {
-      "value": "#DC3545ff"
+    "gds-tema-vermelho": {
+      "value": "{color.gds-vermelho-alaranjado.value}",
+      "comment": "Cor usada para ações ou feedbacks de erro"
     },
-    "gds-warning": {
-      "value": "#FFC107ff"
+    "gds-tema-roxo": {
+      "value": "{color.gds-violeta.value}",
+      "comment": "Cor usada para ajuda, informação ou status"
     },
-    "gds-success": {
-      "value": "#198754ff"
+    "gds-roxo-desbotado": {
+      "value": "#EAE6FFff"
     },
-    "gds-secondary": {
-      "value": "#6C757Dff"
+    "gds-roxo-pastel": {
+      "value": "#BFB6F3ff"
     },
-    "gds-primary": {
-      "value": "#0D6EFDff"
+    "gds-azul-pastel": {
+      "value": "#B2D5FFff"
+    },
+    "gds-roxo-vivo": {
+      "value": "#6457C0ff"
+    },
+    "gds-azul-cobalto": {
+      "value": "#0249A6ff"
+    },
+    "gds-azul-royal": {
+      "value": "#4A9BFFff"
+    },
+    "gds-verde-agua": {
+      "value": "#78F1C0ff"
+    },
+    "gds-verde-desbotado": {
+      "value": "#E3FCEFff"
+    },
+    "gds-amarelo-desbotado": {
+      "value": "#FFF9EDff"
+    },
+    "gds-verde-esmeralda": {
+      "value": "#006545ff"
+    },
+    "gds-amarelo-castanho": {
+      "value": "#FFCB64ff"
+    },
+    "gds-amarelo-medio": {
+      "value": "#FFECC5ff"
+    },
+    "gds-laranja-medio": {
+      "value": "#FF8F73ff"
+    },
+    "gds-laranja-desbotado": {
+      "value": "#FFEBE6ff"
+    },
+    "gds-laranja-avermelhado": {
+      "value": "#FF5630ff"
+    },
+    "gds-gelo": {
+      "value": "#F9F9FBff"
+    },
+    "gds-azul-luz": {
+      "value": "#EBECFFff"
+    },
+    "gds-cinza-claro": {
+      "value": "#EDEDF1ff"
+    },
+    "gds-azul-magenta": {
+      "value": "#B6BAF1ff"
+    },
+    "gds-cinza": {
+      "value": "#B3BAC5ff"
+    },
+    "gds-azul-mistico": {
+      "value": "#656A9Cff"
+    },
+    "gds-azul-lavanda": {
+      "value": "#8C91C5ff"
+    },
+    "gds-azul-noite": {
+      "value": "#303966ff"
+    },
+    "gds-violeta": {
+      "value": "#7D4CE4ff"
+    },
+    "gds-azul-petroleo": {
+      "value": "#000125ff"
+    },
+    "gds-azul-aqua": {
+      "value": "#00B8D9ff"
+    },
+    "gds-ciano": {
+      "value": "#17E9E1ff"
+    },
+    "gds-amarelo-beer": {
+      "value": "#FFAA00ff"
+    },
+    "gds-verde-ciano": {
+      "value": "#34B37Eff"
+    },
+    "gds-branco-base": {
+      "value": "#FFFFFFff"
+    },
+    "gds-vermelho-alaranjado": {
+      "value": "#C02500ff"
+    },
+    "gds-azul-escuro-base": {
+      "value": "#17224Dff"
+    },
+    "gds-azul-brilhante-base": {
+      "value": "#007FFFff"
     }
   }
 }
