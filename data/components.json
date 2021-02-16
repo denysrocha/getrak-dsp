@@ -2,5 +2,78 @@
   "dsp_spec_version": "0.0.1",
   "last_updated_by": "Denys Rocha",
   "last_updated": "2021-02-05T19:57:03.103Z",
-  "entities": []
+  "entities": [
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "86b143ed-bd66-4b34-9bbf-138ddd6cc902",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "gds-botao-azul",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "ef0ebde4-73a8-4d96-bbb4-866f37cbb762",
+        "last_sync": "2021-02-16T19:53:19.738Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "c8568bde-1e3c-4a89-8382-448230f6293c",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "gds-botao-azul-borda",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "32ea5608-3d63-4ff2-ac90-d2cc1ead70b1",
+        "last_sync": "2021-02-16T19:53:19.738Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "5ddffd68-b92e-4682-9fbd-ca5bcfc133f0",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "gds-botao-neutro",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "b6fce94c-aedb-4f0f-a552-b511742550a4",
+        "last_sync": "2021-02-16T19:53:19.738Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "0e79aee5-b0b5-4fbb-ba4b-2b9d4b4532d7",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "gds-botao-neutro-borda",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "1cfc473e-4cb1-462b-9668-561e5a013d98",
+        "last_sync": "2021-02-16T19:53:19.738Z",
+        "sync": true
+      }
+    }
+  ]
 }

@@ -4,6 +4,16 @@
   "last_updated": "2021-02-05T19:57:03.103Z",
   "entities": [
     {
+      "id": "df5d2b53-3711-4da2-a8da-d5711347938c",
+      "class": "doc",
+      "type": "page",
+      "name": "Botões",
+      "description": "Os botões comunicam ações que os usuários podem realizar. Eles são normalmente colocados em toda a sua IU, em locais como: Diálogos, Formulários, Barras de Ferramentas, etc. A distinção entre botões e links é importante:\n\nOs links são usados quando você está navegando para outro lugar, como: página “ver todos”, perfil “Marina Carvalho“, etc.\n\nOs botões são usados quando você está realizando uma ação , como: “enviar”, “mesclar”, “criar novo”, “carregar” etc.",
+      "tags": [],
+      "last_updated": "2021-02-16T19:58:49.740Z",
+      "last_updated_by": "Denys Rocha"
+    },
+    {
       "id": "615158de-94fd-443b-92a3-456f891c74f0",
       "class": "doc",
       "type": "page",
