@@ -39,9 +39,21 @@
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "button",
+        "botao",
+        "amarelo",
+        "yellow",
+        "btn",
+        "warning",
+        "outline"
+      ],
       "id": "8fcde460-84e7-499d-93c7-a937d3a0456a",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "3ef18780-e299-4d80-ae61-434c85f70177",
+        "f17cf6d7-a7b0-4b9a-8eb8-d732c24ae82d",
+        "0f3422d9-63e3-4456-9b3a-d2fb6225c812"
+      ],
       "snippets": {
         "trigger": "",
         "languages": {}
@@ -52,7 +64,10 @@
         "id": "e8b92ce4-67e5-46a8-8bd7-e2c928a6e875",
         "last_sync": "2021-02-17T13:22:10.071Z",
         "sync": true
-      }
+      },
+      "description": "## Botão com borda amarela\n\nBotão de ação menos importante, geralmente presente quando há outro botão de mesma cor com preenchimento total.\n\n### Como usar\nÉ preferível usar este tipo de botão quando temos mais de uma ação requerida pelo usuário, mas queremos dar menos ênfase neste e mais em outro botão presente.\n\nÉ super importante obedecer a hierarquia de botões baseado nas cores, preenchimento e borda.\nO designer deve usar de bom senso para harmonizar a tela obedecendo a esta regra.",
+      "last_updated": "2021-02-17T16:51:10.695Z",
+      "last_updated_by": "Denys Rocha"
     },
     {
       "class": "component",
@@ -84,15 +99,27 @@
         "sync": true
       },
       "description": "## Botão azul\n\nBotão de ação primária muito usado em ações corriqueiras do usuário.\n\n### Como usar\nNa presença de mais botões, este deve sempre estar alinhado à direita do elemento irmão (botão) e dentro do elemento pai (ex.: card) respeitando suas margens/paddings.",
-      "last_updated": "2021-02-17T14:49:48.436Z",
+      "last_updated": "2021-02-17T16:40:57.252Z",
       "last_updated_by": "Denys Rocha"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "botao",
+        "button",
+        "btn",
+        "azul",
+        "blue",
+        "borda",
+        "outline"
+      ],
       "id": "c8568bde-1e3c-4a89-8382-448230f6293c",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "b92506ba-7702-44ba-80ff-b6cbc2e6c5ab",
+        "f17cf6d7-a7b0-4b9a-8eb8-d732c24ae82d",
+        "0f3422d9-63e3-4456-9b3a-d2fb6225c812"
+      ],
       "snippets": {
         "trigger": "",
         "languages": {}
@@ -103,7 +130,10 @@
         "id": "32ea5608-3d63-4ff2-ac90-d2cc1ead70b1",
         "last_sync": "2021-02-16T19:53:19.738Z",
         "sync": true
-      }
+      },
+      "description": "## Botão com borda azul\n\nBotão de ação menos importante, geralmente presente quando há outro botão de mesma cor com preenchimento total.\n\n### Como usar\nÉ preferível usar este tipo de botão quando temos mais de uma ação requerida pelo usuário, mas queremos dar menos ênfase neste e mais em outro botão presente.\n\nÉ super importante obedecer a hierarquia de botões baseado nas cores, preenchimento e borda.\nO designer deve usar de bom senso para harmonizar a tela obedecendo a esta regra.",
+      "last_updated": "2021-02-17T16:49:55.559Z",
+      "last_updated_by": "Denys Rocha"
     },
     {
       "class": "component",
@@ -140,9 +170,20 @@
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "button",
+        "botao",
+        "btn",
+        "cinza",
+        "gray",
+        "outline"
+      ],
       "id": "0e79aee5-b0b5-4fbb-ba4b-2b9d4b4532d7",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "c5457b2d-2cae-48df-a842-a140547c2bc8",
+        "f17cf6d7-a7b0-4b9a-8eb8-d732c24ae82d",
+        "0f3422d9-63e3-4456-9b3a-d2fb6225c812"
+      ],
       "snippets": {
         "trigger": "",
         "languages": {}
@@ -153,7 +194,10 @@
         "id": "1cfc473e-4cb1-462b-9668-561e5a013d98",
         "last_sync": "2021-02-16T19:53:19.738Z",
         "sync": true
-      }
+      },
+      "description": "## Botão com borda cinza\n\nBotão de ação menos importante, geralmente presente quando há outro botão de mesma cor com preenchimento total.\n\n### Como usar\nÉ preferível usar este tipo de botão quando temos mais de uma ação requerida pelo usuário, mas queremos dar menos ênfase neste e mais em outro botão presente.\n\nÉ super importante obedecer a hierarquia de botões baseado nas cores, preenchimento e borda.\nO designer deve usar de bom senso para harmonizar a tela obedecendo a esta regra.",
+      "last_updated": "2021-02-17T16:52:33.174Z",
+      "last_updated_by": "Denys Rocha"
     },
     {
       "class": "component",
@@ -191,9 +235,23 @@
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "button",
+        "botao",
+        "btn",
+        "roxo",
+        "purple",
+        "outline",
+        "info",
+        "help",
+        "ajuda"
+      ],
       "id": "c96199cb-7ffc-4072-94a1-111d1872168f",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "243f9f9d-a4ef-47a6-8d3d-3df41193a88f",
+        "f17cf6d7-a7b0-4b9a-8eb8-d732c24ae82d",
+        "0f3422d9-63e3-4456-9b3a-d2fb6225c812"
+      ],
       "snippets": {
         "trigger": "",
         "languages": {}
@@ -204,7 +262,10 @@
         "id": "f0d92f6a-8097-4310-b640-514126461a42",
         "last_sync": "2021-02-17T13:22:10.071Z",
         "sync": true
-      }
+      },
+      "description": "## Botão com borda roxa\n\nBotão de ação menos importante, geralmente presente quando há outro botão de mesma cor com preenchimento total.\n\n### Como usar\nÉ preferível usar este tipo de botão quando temos mais de uma ação requerida pelo usuário, mas queremos dar menos ênfase neste e mais em outro botão presente.\n\nÉ super importante obedecer a hierarquia de botões baseado nas cores, preenchimento e borda.\nO designer deve usar de bom senso para harmonizar a tela obedecendo a esta regra.",
+      "last_updated": "2021-02-17T16:53:32.254Z",
+      "last_updated_by": "Denys Rocha"
     },
     {
       "class": "component",
@@ -243,9 +304,21 @@
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "button",
+        "btn",
+        "botao",
+        "verde",
+        "green",
+        "outline",
+        "success"
+      ],
       "id": "50f5d0b5-fde0-4026-aa9a-1f3f211d72b5",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "5ecbdba7-bd40-4b58-8ec6-601112283f7e",
+        "f17cf6d7-a7b0-4b9a-8eb8-d732c24ae82d",
+        "0f3422d9-63e3-4456-9b3a-d2fb6225c812"
+      ],
       "snippets": {
         "trigger": "",
         "languages": {}
@@ -256,7 +329,10 @@
         "id": "98efd364-2e93-437c-9941-87f46526a9ba",
         "last_sync": "2021-02-17T13:22:10.071Z",
         "sync": true
-      }
+      },
+      "description": "## Botão com borda verde\n\nBotão de ação menos importante, geralmente presente quando há outro botão de mesma cor com preenchimento total.\n\n### Como usar\nÉ preferível usar este tipo de botão quando temos mais de uma ação requerida pelo usuário, mas queremos dar menos ênfase neste e mais em outro botão presente.\n\nÉ super importante obedecer a hierarquia de botões baseado nas cores, preenchimento e borda.\nO designer deve usar de bom senso para harmonizar a tela obedecendo a esta regra.",
+      "last_updated": "2021-02-17T16:54:47.124Z",
+      "last_updated_by": "Denys Rocha"
     },
     {
       "class": "component",
@@ -295,7 +371,15 @@
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "button",
+        "botao",
+        "btn",
+        "vermelho",
+        "red",
+        "danger",
+        "outline"
+      ],
       "id": "e6bcc602-0b8d-468d-9290-c8999ef69f2c",
       "related_entity_ids": [],
       "snippets": {
@@ -308,7 +392,10 @@
         "id": "d7c42e4a-3d2e-4efd-be05-a5b33cc75bd0",
         "last_sync": "2021-02-17T13:22:10.071Z",
         "sync": true
-      }
+      },
+      "description": "## Botão com borda vermelha\n\nBotão de ação menos importante, geralmente presente quando há outro botão de mesma cor com preenchimento total.\n\n### Como usar\nÉ preferível usar este tipo de botão quando temos mais de uma ação requerida pelo usuário, mas queremos dar menos ênfase neste e mais em outro botão presente.\n\nÉ super importante obedecer a hierarquia de botões baseado nas cores, preenchimento e borda.\nO designer deve usar de bom senso para harmonizar a tela obedecendo a esta regra.",
+      "last_updated": "2021-02-17T16:55:22.564Z",
+      "last_updated_by": "Denys Rocha"
     }
   ]
 }
