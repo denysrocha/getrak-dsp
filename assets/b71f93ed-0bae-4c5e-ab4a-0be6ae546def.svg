@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="66" height="40" viewBox="0 0 66 40">
-  <g id="gds-botao-neutro-borda" transform="translate(1 1)">
-    <g id="caixa" fill="rgba(255,255,255,0)" stroke="#ededf1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+  <g id="gds-botao-roxo" transform="translate(1 1)">
+    <g id="caixa" fill="#6457c0" stroke="#6457c0" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
       <rect width="64" height="38" rx="8" stroke="none"/>
       <rect x="-0.5" y="-0.5" width="65" height="39" rx="8.5" fill="none"/>
     </g>
     <g id="texto" transform="translate(-433 -136)">
       <rect id="area-texto" width="32" height="22" transform="translate(449 144)" fill="none"/>
-      <text id="texto-2" data-name="texto" transform="translate(449 159)" fill="#b3bac5" font-size="14.22" font-family="Helvetica"><tspan x="0" y="0">Ação</tspan></text>
+      <text id="texto-2" data-name="texto" transform="translate(449 159)" fill="#fff" font-size="14.22" font-family="Helvetica"><tspan x="0" y="0">Ação</tspan></text>
     </g>
   </g>
 </svg>

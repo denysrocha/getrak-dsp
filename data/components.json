@@ -7,6 +7,42 @@
       "class": "component",
       "type": "page",
       "tags": [],
+      "id": "c8d7f782-5f25-4781-8b97-28dc6e725423",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "gds-botao-amarelo",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "10cbe0f4-df02-4d64-b267-4129dec2ef22",
+        "last_sync": "2021-02-17T13:22:10.071Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "8fcde460-84e7-499d-93c7-a937d3a0456a",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "gds-botao-amarelo-borda",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "e8b92ce4-67e5-46a8-8bd7-e2c928a6e875",
+        "last_sync": "2021-02-17T13:22:10.071Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
       "id": "86b143ed-bd66-4b34-9bbf-138ddd6cc902",
       "related_entity_ids": [],
       "snippets": {
@@ -72,6 +108,114 @@
         "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
         "id": "1cfc473e-4cb1-462b-9668-561e5a013d98",
         "last_sync": "2021-02-16T19:53:19.738Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "bfa69a4c-dab2-4bde-87b9-8d65119f0dce",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "gds-botao-roxo",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "b71f93ed-0bae-4c5e-ab4a-0be6ae546def",
+        "last_sync": "2021-02-17T13:22:10.071Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "c96199cb-7ffc-4072-94a1-111d1872168f",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "gds-botao-roxo-borda",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "f0d92f6a-8097-4310-b640-514126461a42",
+        "last_sync": "2021-02-17T13:22:10.071Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "8675f4ef-5d6f-46a2-83f4-94ce727934e0",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "gds-botao-verde",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "2b9e2621-8bd8-4f5d-a0d7-098c7aee70ec",
+        "last_sync": "2021-02-17T13:22:10.071Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "50f5d0b5-fde0-4026-aa9a-1f3f211d72b5",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "gds-botao-verde-borda",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "98efd364-2e93-437c-9941-87f46526a9ba",
+        "last_sync": "2021-02-17T13:22:10.071Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "9ea1a64f-afd7-4f52-9dd7-1cca3e0218d9",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "gds-botao-vermelho",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "a99703fa-018d-4cf0-86be-180916611e72",
+        "last_sync": "2021-02-17T13:22:10.071Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "e6bcc602-0b8d-468d-9290-c8999ef69f2c",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "gds-botao-vermelho-borda",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "d7c42e4a-3d2e-4efd-be05-a5b33cc75bd0",
+        "last_sync": "2021-02-17T13:22:10.071Z",
         "sync": true
       }
     }
