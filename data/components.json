@@ -6,9 +6,21 @@
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "botao",
+        "button",
+        "amarelo",
+        "yellow",
+        "atenção",
+        "attention",
+        "warning"
+      ],
       "id": "c8d7f782-5f25-4781-8b97-28dc6e725423",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "3ef18780-e299-4d80-ae61-434c85f70177",
+        "f17cf6d7-a7b0-4b9a-8eb8-d732c24ae82d",
+        "0f3422d9-63e3-4456-9b3a-d2fb6225c812"
+      ],
       "snippets": {
         "trigger": "",
         "languages": {}
@@ -19,7 +31,10 @@
         "id": "10cbe0f4-df02-4d64-b267-4129dec2ef22",
         "last_sync": "2021-02-17T13:22:10.071Z",
         "sync": true
-      }
+      },
+      "description": "## Botão amarelo\n\nBotão indicativo de situação de atenção/alerta/aviso.\n\n### Como usar\nEste botão deve ser usado como ação principal nas situações citadas acima. Deve sempre estar alinhado à direita do elemento irmão (botão) e dentro do elemento pai (ex.: card) respeitando suas margens/paddings.",
+      "last_updated": "2021-02-17T14:49:38.163Z",
+      "last_updated_by": "Denys Rocha"
     },
     {
       "class": "component",
@@ -51,7 +66,7 @@
       ],
       "id": "86b143ed-bd66-4b34-9bbf-138ddd6cc902",
       "related_entity_ids": [
-        "a4791e80-4300-4a4b-a936-2afcc3e71a28",
+        "b92506ba-7702-44ba-80ff-b6cbc2e6c5ab",
         "0f3422d9-63e3-4456-9b3a-d2fb6225c812",
         "f17cf6d7-a7b0-4b9a-8eb8-d732c24ae82d"
       ],
@@ -68,8 +83,8 @@
         "last_sync": "2021-02-16T19:53:19.738Z",
         "sync": true
       },
-      "description": "### Botão azul\n\nBotão de ação primária muito usado em ações corriqueiras do usuário.\n\n#### Como usar\nEsse botão é de ação primária, muito usado para ações corriqueiras do usuário.\nNa presença de mais botões, este deve sempre estar alinhado à direita do elemento irmão (botão) e dentro do elemento pai (ex.: card) respeitando suas margens/paddings.\n\n#### Tipografia\nPara web deve se usar o token `gds-texto-2-web`, já para mobile deve ser `gds-texto-web-texto-2-mobile`.",
-      "last_updated": "2021-02-17T14:21:29.922Z",
+      "description": "## Botão azul\n\nBotão de ação primária muito usado em ações corriqueiras do usuário.\n\n### Como usar\nNa presença de mais botões, este deve sempre estar alinhado à direita do elemento irmão (botão) e dentro do elemento pai (ex.: card) respeitando suas margens/paddings.",
+      "last_updated": "2021-02-17T14:49:48.436Z",
       "last_updated_by": "Denys Rocha"
     },
     {
@@ -93,9 +108,20 @@
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "botao",
+        "button",
+        "btn",
+        "cinza",
+        "secondary",
+        "secundário"
+      ],
       "id": "5ddffd68-b92e-4682-9fbd-ca5bcfc133f0",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "c5457b2d-2cae-48df-a842-a140547c2bc8",
+        "0f3422d9-63e3-4456-9b3a-d2fb6225c812",
+        "f17cf6d7-a7b0-4b9a-8eb8-d732c24ae82d"
+      ],
       "snippets": {
         "trigger": "",
         "languages": {}
@@ -106,7 +132,10 @@
         "id": "b6fce94c-aedb-4f0f-a552-b511742550a4",
         "last_sync": "2021-02-16T19:53:19.738Z",
         "sync": true
-      }
+      },
+      "description": "## Botão neutro\n\nBotão de ação secundária muito usado em ações menos importantes.\n\n### Como usar\nNa presença do botão de ação primária, este deve estar ao lado esquerdo, como uma ação menos importante.\n\nSe este botão for utilizado como botão de ação principal deve sempre estar alinhado à direita do elemento irmão (botão) e dentro do elemento pai (ex.: card) respeitando suas margens/paddings.",
+      "last_updated": "2021-02-17T14:49:58.325Z",
+      "last_updated_by": "Denys Rocha"
     },
     {
       "class": "component",
@@ -129,9 +158,21 @@
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "botao",
+        "button",
+        "btn",
+        "roxo",
+        "purple",
+        "help",
+        "ajuda"
+      ],
       "id": "bfa69a4c-dab2-4bde-87b9-8d65119f0dce",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "243f9f9d-a4ef-47a6-8d3d-3df41193a88f",
+        "f17cf6d7-a7b0-4b9a-8eb8-d732c24ae82d",
+        "0f3422d9-63e3-4456-9b3a-d2fb6225c812"
+      ],
       "snippets": {
         "trigger": "",
         "languages": {}
@@ -142,7 +183,10 @@
         "id": "b71f93ed-0bae-4c5e-ab4a-0be6ae546def",
         "last_sync": "2021-02-17T13:22:10.071Z",
         "sync": true
-      }
+      },
+      "description": "## Botão roxo\n\nBotão indicativo de ações de solicitação de ajuda/informação.\n\n### Como usar\nEste botão deve ser usado como ação principal nas situações citadas acima. Deve sempre estar alinhado à direita do elemento irmão (botão) e dentro do elemento pai (ex.: card) respeitando suas margens/paddings.",
+      "last_updated": "2021-02-17T14:50:17.147Z",
+      "last_updated_by": "Denys Rocha"
     },
     {
       "class": "component",
@@ -165,9 +209,22 @@
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "botao",
+        "button",
+        "btn",
+        "verde",
+        "green",
+        "salvar",
+        "save",
+        "success"
+      ],
       "id": "8675f4ef-5d6f-46a2-83f4-94ce727934e0",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "5ecbdba7-bd40-4b58-8ec6-601112283f7e",
+        "0f3422d9-63e3-4456-9b3a-d2fb6225c812",
+        "f17cf6d7-a7b0-4b9a-8eb8-d732c24ae82d"
+      ],
       "snippets": {
         "trigger": "",
         "languages": {}
@@ -178,7 +235,10 @@
         "id": "2b9e2621-8bd8-4f5d-a0d7-098c7aee70ec",
         "last_sync": "2021-02-17T13:22:10.071Z",
         "sync": true
-      }
+      },
+      "description": "## Botão verde\n\nBotão indicativo de ações de salvar/guardar dados ou confirmar alguma ação.\n\n### Como usar\nEste botão deve ser usado como ação principal nas situações citadas acima. Deve sempre estar alinhado à direita do elemento irmão (botão) e dentro do elemento pai (ex.: card) respeitando suas margens/paddings.",
+      "last_updated": "2021-02-17T14:50:27.399Z",
+      "last_updated_by": "Denys Rocha"
     },
     {
       "class": "component",
@@ -201,9 +261,22 @@
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "botao",
+        "button",
+        "btn",
+        "danger",
+        "red",
+        "vermelho",
+        "delete",
+        "remove"
+      ],
       "id": "9ea1a64f-afd7-4f52-9dd7-1cca3e0218d9",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "38a07511-c258-4fad-bda0-a2dbc89845e6",
+        "f17cf6d7-a7b0-4b9a-8eb8-d732c24ae82d",
+        "0f3422d9-63e3-4456-9b3a-d2fb6225c812"
+      ],
       "snippets": {
         "trigger": "",
         "languages": {}
@@ -214,7 +287,10 @@
         "id": "a99703fa-018d-4cf0-86be-180916611e72",
         "last_sync": "2021-02-17T13:22:10.071Z",
         "sync": true
-      }
+      },
+      "description": "## Botão vermelho\n\nBotão indicativo de ações de exclusão de dados ou confirmar alguma ação crítica que envolve alguma perda.\n\n### Como usar\nEste botão deve ser usado como ação principal nas situações citadas acima. Deve sempre estar alinhado à direita do elemento irmão (botão) e dentro do elemento pai (ex.: card) respeitando suas margens/paddings.",
+      "last_updated": "2021-02-17T14:50:38.947Z",
+      "last_updated_by": "Denys Rocha"
     },
     {
       "class": "component",
