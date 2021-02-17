@@ -51,7 +51,9 @@
       ],
       "id": "86b143ed-bd66-4b34-9bbf-138ddd6cc902",
       "related_entity_ids": [
-        "a4791e80-4300-4a4b-a936-2afcc3e71a28"
+        "a4791e80-4300-4a4b-a936-2afcc3e71a28",
+        "0f3422d9-63e3-4456-9b3a-d2fb6225c812",
+        "f17cf6d7-a7b0-4b9a-8eb8-d732c24ae82d"
       ],
       "snippets": {
         "trigger": "botao-azul",
@@ -66,8 +68,8 @@
         "last_sync": "2021-02-16T19:53:19.738Z",
         "sync": true
       },
-      "description": "### Botão azul\n\nBotão de ação primária muito usado em ações corriqueiras do usuário.\n\n#### Como usar\nEsse botão é de ação primária, muito usado para ações corriqueiras do usuário.\nNa presença de mais botões, este deve sempre estar alinhado à direita do elemento irmão (botão) e dentro do elemento pai (ex.: card) respeitando suas margens/paddings.",
-      "last_updated": "2021-02-17T14:15:59.155Z",
+      "description": "### Botão azul\n\nBotão de ação primária muito usado em ações corriqueiras do usuário.\n\n#### Como usar\nEsse botão é de ação primária, muito usado para ações corriqueiras do usuário.\nNa presença de mais botões, este deve sempre estar alinhado à direita do elemento irmão (botão) e dentro do elemento pai (ex.: card) respeitando suas margens/paddings.\n\n#### Tipografia\nPara web deve se usar o token `gds-texto-2-web`, já para mobile deve ser `gds-texto-web-texto-2-mobile`.",
+      "last_updated": "2021-02-17T14:21:29.922Z",
       "last_updated_by": "Denys Rocha"
     },
     {
