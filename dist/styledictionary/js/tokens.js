@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 17 Feb 2021 14:16:12 GMT
+ * Generated on Wed, 17 Feb 2021 14:16:55 GMT
  */
 
 export const GdsTemaAzul = "#007fff"; // Cor para ações primárias
