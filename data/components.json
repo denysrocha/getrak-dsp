@@ -66,8 +66,8 @@
         "last_sync": "2021-02-16T19:53:19.738Z",
         "sync": true
       },
-      "description": "### Botão azul\n\nBotão de ação primária muito usado em ações corriqueiras do usuário.\n\n#### Como usar\nEsse botão é de ação primária, muito usado para ações corriqueiras do usuário.\nNo caso da presença de mais botões, este deve sempre estar alinhado à direita dos elementos irmão (botão) e pai (ex.: card).",
-      "last_updated": "2021-02-17T14:13:09.680Z",
+      "description": "### Botão azul\n\nBotão de ação primária muito usado em ações corriqueiras do usuário.\n\n#### Como usar\nEsse botão é de ação primária, muito usado para ações corriqueiras do usuário.\nNa presença de mais botões, este deve sempre estar alinhado à direita do elemento irmão (botão) e dentro do elemento pai (ex.: card) respeitando suas margens/paddings.",
+      "last_updated": "2021-02-17T14:15:59.155Z",
       "last_updated_by": "Denys Rocha"
     },
     {
