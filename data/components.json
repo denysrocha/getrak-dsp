@@ -46,8 +46,10 @@
       "id": "86b143ed-bd66-4b34-9bbf-138ddd6cc902",
       "related_entity_ids": [],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "botao-azul",
+        "languages": {
+          "javascript": "<b-button variant=\"azul\">Ação</b-button>"
+        }
       },
       "name": "gds-botao-azul",
       "ext-com_adobe-cclib": {
@@ -55,7 +57,10 @@
         "id": "ef0ebde4-73a8-4d96-bbb4-866f37cbb762",
         "last_sync": "2021-02-16T19:53:19.738Z",
         "sync": true
-      }
+      },
+      "description": "### Botão azul\n\nBotão de ação primária muito usado em ações corriqueiras do usuário.\n\n#### Como usar\nEsse botão é de ação primária, muito usado para ações corriqueiras do usuário.\nNo caso da presença de mais botões, este deve sempre estar alinhado à direita dos elementos irmão (botão) e pai (ex.: card)\n\n#### Estados\n![Botão](https://github.com/denysrocha/getrak-dsp/blob/master/assets/gds-botao-azul.png?raw=true)\n> Os estados do botão podem obedecer o comportamento padrão da linguagem/framework utilizado. Nesse caso está baseado no Bootstrap.",
+      "last_updated": "2021-02-17T13:45:59.188Z",
+      "last_updated_by": "Denys Rocha"
     },
     {
       "class": "component",
