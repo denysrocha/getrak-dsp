@@ -1,6 +1,6 @@
 {
   "dsp_spec_version": "0.0.1",
-  "last_updated_by": "Denys Rocha",
+  "last_updated_by": "",
   "last_updated": "2021-02-05T19:57:03.103Z",
   "entities": [
     {
@@ -32,6 +32,16 @@
       "tags": [],
       "last_updated": "2021-02-09T12:39:00.242Z",
       "last_updated_by": "Denys Rocha"
+    },
+    {
+      "id": "94e9bc65-1221-4050-8583-74595e022a69",
+      "class": "doc",
+      "type": "page",
+      "name": "VOz e toms",
+      "description": "Edit this with the pencil icon.\n\nMarkdown is supported to help you create great documentation for your design system.",
+      "tags": [],
+      "last_updated": "2021-02-18T12:47:15.514Z",
+      "last_updated_by": ""
     }
   ]
 }
