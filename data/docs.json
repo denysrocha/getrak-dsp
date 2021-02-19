@@ -1,6 +1,6 @@
 {
   "dsp_spec_version": "0.0.1",
-  "last_updated_by": "",
+  "last_updated_by": "Denys Rocha",
   "last_updated": "2021-02-05T19:57:03.103Z",
   "entities": [
     {
@@ -31,6 +31,16 @@
       "description": "## Dispositivos web\n\nA [WCAG 2.0](https://www.w3.org/Translations/WCAG20-pt-br/WCAG20-pt-br-20141024/) (Web Content Accessibility Guidelines) recomenda que a fonte base do corpo de um texto na web não deve ser inferior a 12px (9pt), para que o mesmo seja legível e acessível. A mesma instituição recomenda o tamanho de fonte padrão em 16px (12pt). \n\nNa Getrak utilizaremos a fonte base Helvetica, 16px (12pt) como recomenado pela [WCAG 2.0 W3C](https://www.w3.org/Translations/WCAG20-pt-br/WCAG20-pt-br-20141024/), com uma escala de 16px x 1.125 para obter estilos de textos maiores e menores, como títulos, subtítulos, botões e legendas.\n\nA simulação pode ser feita através do site: [https://type-scale.com/](https://type-scale.com/)\n\n\n## Dispositivos mobile\n\nPara interfaces mobile, utilizaremos a fonte base Helvetica, 18px (13.5pt), pois oferece ótima escaneabilidade para este tipo de dispositivo, e utilizamos uma escala de 18px x 1.125, o que nos dá uma variação muito menor entre o corpo do texto e o título, dando um uso mais otimzado do espaço da tela do usuário, mas permanecendo com a marcação da hieraquia dos estilos de texto.\n\nO site [Medium](https://medium.com/) foi uma referência para avaliar legibilidade de textos na web e mobile.\n\n## Uso\n\nVocê pode utilizar os design tokens de tipografia, onde o número da fonte vem na proporção de pixel real com base em 16px. É tarefa de quem usar converter para uma medida relativa, como `em` ou `rem`, e no caso de dispositivo móvel, usar 18px como tamanho de fonte base multiplicado por 1.125, como dito na seção anterior. Dessa forma, todos os tamanhos aumentarão proporcionalmente.\n\n![Tipografia](https://github.com/denysrocha/getrak-dsp/blob/master/assets/tipografia.png?raw=true)\n\n## Design Tokens\n\nOs design tokens estão nomeados seguindo o padrão `gds-<elemento>-<dispositivo>`, como por exemplo: `gds-h-1-web`, ou `gds-texto-mobile`, ou até mesmo híbrido, quando um tamanho de fonte na web se repete no mobile, só que em proporções diferentes: `gds-h-2-web-h-3-mobile`.\nÉ de responsabilidade do programador criar sua folha de estilos definindo suas classes baseadas nos nesses tokens.\nNo caso do VueBootstrap, é só importar [esse arquivo](https://github.com/denysrocha/poc-gds-design-system/blob/main/src/assets/scss/text-styles.scss) que já contém as classes corretas.",
       "tags": [],
       "last_updated": "2021-02-09T12:39:00.242Z",
+      "last_updated_by": "Denys Rocha"
+    },
+    {
+      "id": "178fa329-d2a1-4631-8004-8c3c2e66d173",
+      "class": "doc",
+      "type": "page",
+      "name": "Layout",
+      "description": "> O layout de aplicações web e mobile deve obedecer as regras aqui definidas baseando-se em sistemas de grid responsivo. Esse guia foi fortemente baseado no sistema de design Material.io.\n\n\n#### Sistema de grid responsivo\n\nO sistema de grid orienta designers e desenvolvedores a distribuir de forma harmoniosa todo o conteúdo mostrado na tela do usuário. É muito importante que o usuário tenha clareza das ações que precisa tomar enquanto escanea a tela rapidamente.\n\nO layout distribuído em grid responsivo deve adaptar o conteúdo a diferentes tamanhos e orientações de tela, garantindo consistência entre os layouts.\n\n\n#### Colunas, calhas e margens\n\nUtilizamos a organização de colunas, calhas (gutters) e margens, onde podemos assumir certa flexibilidade quanto a cada um desses itens, dependendo do tipo de layout (fixo/fluido) e determinados ponto de interrupção (breakpoints).\n\nO conteúdo deve ser distribuído em grids de 12, 8, 4 e 2 colunas, para telas de computadores, tablets e smartphones respectivamente. As colunas tem tamanho flexível, sendo determinada em porcentagens. O número de colunas utilizado vai depender do ponto de interrupção que estiver de acordo com a largura da tela.\n\n`imagens`",
+      "tags": [],
+      "last_updated": "2021-02-19T12:51:31.558Z",
       "last_updated_by": "Denys Rocha"
     },
     {
