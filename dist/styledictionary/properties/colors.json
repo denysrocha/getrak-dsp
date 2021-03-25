@@ -81,7 +81,7 @@
       "value": "#B6BAF1ff"
     },
     "gds-cinza": {
-      "value": "#B3BAC5ff"
+      "value": "#6C757Dff"
     },
     "gds-azul-mistico": {
       "value": "#656A9Cff"
@@ -121,6 +121,12 @@
     },
     "gds-azul-brilhante-base": {
       "value": "#007FFFff"
+    },
+    "gds-cinza-escuro": {
+      "value": "#4F4F4Fff"
+    },
+    "gds-cinza-medio-claro": {
+      "value": "#B0B6BAff"
     }
   }
 }

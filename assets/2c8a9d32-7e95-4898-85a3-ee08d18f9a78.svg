@@ -1,0 +1,15 @@
+<svg id="gds-tabela-corpo" xmlns="http://www.w3.org/2000/svg" width="301" height="49.5" viewBox="0 0 301 49.5">
+  <path id="base" d="M0,0H301V49H0Z" fill="#fff"/>
+  <g id="bordas" transform="translate(0 49)">
+    <line id="Linha_2" data-name="Linha 2" x2="301" transform="translate(0 0)" fill="none" stroke="#ededf1" stroke-width="1"/>
+  </g>
+  <g id="conteudo" transform="translate(-92.045 16.899)">
+    <text id="Corpo" transform="translate(134 12)" fill="#212529" font-size="16" font-family="Helvetica"><tspan x="0" y="0">Corpo</tspan></text>
+    <g id="gds-check-box" transform="translate(104)">
+      <g id="base-2" data-name="base" fill="none" stroke="#6c757d" stroke-miterlimit="10" stroke-width="1">
+        <rect width="14" height="14" rx="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="13" height="13" rx="2.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

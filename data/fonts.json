@@ -1,332 +1,35 @@
 {
   "dsp_spec_version": "0.0.1",
-  "last_updated_by": "Denys Rocha",
+  "last_updated_by": "",
   "last_updated": "2021-02-05T19:57:03.103Z",
   "entities": [
     {
       "class": "collection",
       "type": "font",
-      "id": "f26626ce-7716-4304-8b1b-d3e2c51a967d",
-      "name": "gds-h5-web-texto-mobile",
+      "id": "67463cd5-4e83-420c-9632-1f9ccb8ebd04",
+      "name": "gds-texto-2",
       "tags": [],
       "ext-com_adobe-cclib": {
         "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
-        "id": "cf22c5a6-4b02-4e0c-9b3b-67678c0f40ad",
-        "last_sync": "2021-02-17T14:18:15.705Z",
+        "id": "33b0ac20-8477-4f7e-aada-be6bb17a674d",
+        "last_sync": "2021-03-25T17:36:09.777Z",
         "sync": true
       },
       "tokens": [
         {
-          "id": "78be67c1-1c23-4fa4-b645-6c34e9978c4c",
+          "id": "6237bb8d-c435-4615-ae6d-fcd8ea2c6380",
           "type": "custom",
-          "value": "Helvetica",
+          "value": "Open Sans",
           "key": "family"
         },
         {
-          "id": "78be67c1-1c23-4fa4-b645-6c34e9978c4c",
+          "id": "6237bb8d-c435-4615-ae6d-fcd8ea2c6380",
           "type": "custom",
           "value": "Regular",
           "key": "weight"
         },
         {
-          "id": "78be67c1-1c23-4fa4-b645-6c34e9978c4c",
-          "type": "size",
-          "value": "18",
-          "key": "size"
-        }
-      ]
-    },
-    {
-      "class": "collection",
-      "type": "font",
-      "id": "847c5c43-8405-4dd3-be95-c21e0b2dc943",
-      "name": "gds-legenda",
-      "tags": [],
-      "ext-com_adobe-cclib": {
-        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
-        "id": "e6b51215-c8f8-4f54-bd67-7fbf905bf023",
-        "last_sync": "2021-02-17T14:18:15.705Z",
-        "sync": true
-      },
-      "tokens": [
-        {
-          "id": "b2938511-9d75-445d-8190-79ff294c3201",
-          "type": "custom",
-          "value": "Helvetica",
-          "key": "family"
-        },
-        {
-          "id": "b2938511-9d75-445d-8190-79ff294c3201",
-          "type": "custom",
-          "value": "Regular",
-          "key": "weight"
-        },
-        {
-          "id": "b2938511-9d75-445d-8190-79ff294c3201",
-          "type": "size",
-          "value": "12.640000343322754",
-          "key": "size"
-        }
-      ]
-    },
-    {
-      "class": "collection",
-      "type": "font",
-      "id": "8c74449d-7af3-41d4-a935-af377d57d00e",
-      "name": "gds-h4-web",
-      "tags": [],
-      "ext-com_adobe-cclib": {
-        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
-        "id": "09d8bc93-a0e6-431a-abb5-ff5c542938ec",
-        "last_sync": "2021-02-17T14:18:15.705Z",
-        "sync": true
-      },
-      "tokens": [
-        {
-          "id": "61a38b22-922b-47e0-8913-3eeac56eb3fd",
-          "type": "custom",
-          "value": "Helvetica",
-          "key": "family"
-        },
-        {
-          "id": "61a38b22-922b-47e0-8913-3eeac56eb3fd",
-          "type": "custom",
-          "value": "Regular",
-          "key": "weight"
-        },
-        {
-          "id": "61a38b22-922b-47e0-8913-3eeac56eb3fd",
-          "type": "size",
-          "value": "20.299999237060547",
-          "key": "size"
-        }
-      ]
-    },
-    {
-      "class": "collection",
-      "type": "font",
-      "id": "1e4fdeb7-b0f7-4c1d-a448-dd4a42295b1f",
-      "name": "gds-h3-web-h4-mobile",
-      "tags": [],
-      "ext-com_adobe-cclib": {
-        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
-        "id": "369a71fd-23b9-4d03-8188-4cdec80be239",
-        "last_sync": "2021-02-17T14:18:15.705Z",
-        "sync": true
-      },
-      "tokens": [
-        {
-          "id": "e1c59a70-e40c-45b6-8551-ac74d392906f",
-          "type": "custom",
-          "value": "Helvetica",
-          "key": "family"
-        },
-        {
-          "id": "e1c59a70-e40c-45b6-8551-ac74d392906f",
-          "type": "custom",
-          "value": "Regular",
-          "key": "weight"
-        },
-        {
-          "id": "e1c59a70-e40c-45b6-8551-ac74d392906f",
-          "type": "size",
-          "value": "22.780000686645508",
-          "key": "size"
-        }
-      ]
-    },
-    {
-      "class": "collection",
-      "type": "font",
-      "id": "8e3aabde-1cff-47e5-8eef-8ef31f1bde6c",
-      "name": "gds-h2-mobile",
-      "tags": [],
-      "ext-com_adobe-cclib": {
-        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
-        "id": "21ced92e-bc54-41f7-aebd-f54e9881ba75",
-        "last_sync": "2021-02-17T14:18:15.705Z",
-        "sync": true
-      },
-      "tokens": [
-        {
-          "id": "5f1ec4a4-c461-4907-acb6-7faa9c418139",
-          "type": "custom",
-          "value": "Helvetica",
-          "key": "family"
-        },
-        {
-          "id": "5f1ec4a4-c461-4907-acb6-7faa9c418139",
-          "type": "custom",
-          "value": "Regular",
-          "key": "weight"
-        },
-        {
-          "id": "5f1ec4a4-c461-4907-acb6-7faa9c418139",
-          "type": "size",
-          "value": "28.829999923706055",
-          "key": "size"
-        }
-      ]
-    },
-    {
-      "class": "collection",
-      "type": "font",
-      "id": "f17cf6d7-a7b0-4b9a-8eb8-d732c24ae82d",
-      "name": "gds-texto-web-texto-2-mobile",
-      "tags": [],
-      "ext-com_adobe-cclib": {
-        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
-        "id": "1ab00ddd-68cc-4bd1-96cd-6187b7ded20d",
-        "last_sync": "2021-02-17T14:18:15.705Z",
-        "sync": true
-      },
-      "tokens": [
-        {
-          "id": "96228ac9-f2c8-4499-bedf-b45ed2a8e0ef",
-          "type": "custom",
-          "value": "Helvetica",
-          "key": "family"
-        },
-        {
-          "id": "96228ac9-f2c8-4499-bedf-b45ed2a8e0ef",
-          "type": "custom",
-          "value": "Regular",
-          "key": "weight"
-        },
-        {
-          "id": "96228ac9-f2c8-4499-bedf-b45ed2a8e0ef",
-          "type": "size",
-          "value": "16",
-          "key": "size"
-        }
-      ]
-    },
-    {
-      "class": "collection",
-      "type": "font",
-      "id": "d7cebfa6-add9-4529-9b0f-809b36e6a2dd",
-      "name": "gds-h5-mobile",
-      "tags": [],
-      "ext-com_adobe-cclib": {
-        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
-        "id": "a6754652-dd70-4395-af38-beb0c39d2dc4",
-        "last_sync": "2021-02-17T14:18:15.705Z",
-        "sync": true
-      },
-      "tokens": [
-        {
-          "id": "0a16b6b8-17ee-413f-9328-30276226063a",
-          "type": "custom",
-          "value": "Helvetica",
-          "key": "family"
-        },
-        {
-          "id": "0a16b6b8-17ee-413f-9328-30276226063a",
-          "type": "custom",
-          "value": "Regular",
-          "key": "weight"
-        },
-        {
-          "id": "0a16b6b8-17ee-413f-9328-30276226063a",
-          "type": "size",
-          "value": "20.25",
-          "key": "size"
-        }
-      ]
-    },
-    {
-      "class": "collection",
-      "type": "font",
-      "id": "5b46befe-7c71-403d-9869-ce68925c2837",
-      "name": "gds-h2-web-h3-mobile",
-      "tags": [],
-      "ext-com_adobe-cclib": {
-        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
-        "id": "429d5072-9e04-41b4-bffc-6db991f962c5",
-        "last_sync": "2021-02-17T14:18:15.705Z",
-        "sync": true
-      },
-      "tokens": [
-        {
-          "id": "75f3e189-7c6d-4fef-855e-c611740d776d",
-          "type": "custom",
-          "value": "Helvetica",
-          "key": "family"
-        },
-        {
-          "id": "75f3e189-7c6d-4fef-855e-c611740d776d",
-          "type": "custom",
-          "value": "Regular",
-          "key": "weight"
-        },
-        {
-          "id": "75f3e189-7c6d-4fef-855e-c611740d776d",
-          "type": "size",
-          "value": "25.6299991607666",
-          "key": "size"
-        }
-      ]
-    },
-    {
-      "class": "collection",
-      "type": "font",
-      "id": "cf4ef3ec-9fcd-4231-9aeb-6536a695fe91",
-      "name": "gds-h1-mobile",
-      "tags": [],
-      "ext-com_adobe-cclib": {
-        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
-        "id": "5189d07f-7524-4a80-992c-089384325d51",
-        "last_sync": "2021-02-17T14:18:15.705Z",
-        "sync": true
-      },
-      "tokens": [
-        {
-          "id": "d1594b5a-3fec-467e-88fe-7f0a3bd4b40f",
-          "type": "custom",
-          "value": "Helvetica",
-          "key": "family"
-        },
-        {
-          "id": "d1594b5a-3fec-467e-88fe-7f0a3bd4b40f",
-          "type": "custom",
-          "value": "Light",
-          "key": "weight"
-        },
-        {
-          "id": "d1594b5a-3fec-467e-88fe-7f0a3bd4b40f",
-          "type": "size",
-          "value": "32.439998626708984",
-          "key": "size"
-        }
-      ]
-    },
-    {
-      "class": "collection",
-      "type": "font",
-      "id": "0f3422d9-63e3-4456-9b3a-d2fb6225c812",
-      "name": "gds-texto-2-web",
-      "tags": [],
-      "ext-com_adobe-cclib": {
-        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
-        "id": "4866d8fe-0ca2-403b-beb8-3aba9eacdfce",
-        "last_sync": "2021-02-17T14:18:15.705Z",
-        "sync": true
-      },
-      "tokens": [
-        {
-          "id": "e7239ad3-c4b9-4265-a027-652c7f59639e",
-          "type": "custom",
-          "value": "Helvetica",
-          "key": "family"
-        },
-        {
-          "id": "e7239ad3-c4b9-4265-a027-652c7f59639e",
-          "type": "custom",
-          "value": "Regular",
-          "key": "weight"
-        },
-        {
-          "id": "e7239ad3-c4b9-4265-a027-652c7f59639e",
+          "id": "6237bb8d-c435-4615-ae6d-fcd8ea2c6380",
           "type": "size",
           "value": "14.220000267028809",
           "key": "size"
@@ -336,32 +39,98 @@
     {
       "class": "collection",
       "type": "font",
-      "id": "78c6a9a1-54e8-401c-9185-4b394b847068",
-      "name": "gds-h1-web",
+      "id": "cae16164-30e6-449c-8ad3-f6862009bda5",
+      "name": "gds-titulo-h2",
       "tags": [],
       "ext-com_adobe-cclib": {
         "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
-        "id": "7a8fec6c-2fb9-4607-8f19-f9ccebcdb23e",
-        "last_sync": "2021-02-17T14:18:15.705Z",
+        "id": "2b4fabf4-d362-4801-a109-8405dcf8426a",
+        "last_sync": "2021-03-25T17:36:09.777Z",
         "sync": true
       },
       "tokens": [
         {
-          "id": "3678ca5f-5153-4532-be2d-5e328a71a837",
+          "id": "617fab4c-2746-498e-a4a6-f19489c1a0bb",
           "type": "custom",
-          "value": "Helvetica",
+          "value": "Open Sans",
           "key": "family"
         },
         {
-          "id": "3678ca5f-5153-4532-be2d-5e328a71a837",
+          "id": "617fab4c-2746-498e-a4a6-f19489c1a0bb",
           "type": "custom",
-          "value": "Light",
+          "value": "Semibold",
           "key": "weight"
         },
         {
-          "id": "3678ca5f-5153-4532-be2d-5e328a71a837",
+          "id": "617fab4c-2746-498e-a4a6-f19489c1a0bb",
+          "type": "size",
+          "value": "25.6299991607666",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "5145608f-0e92-4efa-b1e7-b14c089352e1",
+      "name": "gds-titulo-h1",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "b81cec49-8239-4f59-9363-3499d24c35a9",
+        "last_sync": "2021-03-25T17:36:09.777Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "c9655c64-4d35-47e9-bae6-19b9a9a52963",
+          "type": "custom",
+          "value": "Open Sans",
+          "key": "family"
+        },
+        {
+          "id": "c9655c64-4d35-47e9-bae6-19b9a9a52963",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "c9655c64-4d35-47e9-bae6-19b9a9a52963",
           "type": "size",
           "value": "28.829999923706055",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "af998054-a263-4d7c-a7a8-0905ca67289a",
+      "name": "gds-texto",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "c1e7de46-3ec1-4a65-8ebb-7f84a273d530",
+        "last_sync": "2021-03-25T17:36:09.777Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "0f58f455-fb36-479c-9877-dfa580c6da6c",
+          "type": "custom",
+          "value": "Open Sans",
+          "key": "family"
+        },
+        {
+          "id": "0f58f455-fb36-479c-9877-dfa580c6da6c",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "0f58f455-fb36-479c-9877-dfa580c6da6c",
+          "type": "size",
+          "value": "16",
           "key": "size"
         }
       ]

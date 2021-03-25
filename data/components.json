@@ -1,6 +1,6 @@
 {
   "dsp_spec_version": "0.0.1",
-  "last_updated_by": "Denys Rocha",
+  "last_updated_by": "",
   "last_updated": "2021-02-05T19:57:03.103Z",
   "entities": [
     {
@@ -396,6 +396,86 @@
       "description": "## Botão com borda vermelha\n\nBotão de ação menos importante, geralmente presente quando há outro botão de mesma cor com preenchimento total.\n\n### Como usar\nÉ preferível usar este tipo de botão quando temos mais de uma ação requerida pelo usuário, mas queremos dar menos ênfase neste e mais em outro botão presente.\n\nÉ super importante obedecer a hierarquia de botões baseado nas cores, preenchimento e borda.\nO designer deve usar de bom senso para harmonizar a tela obedecendo a esta regra.",
       "last_updated": "2021-02-17T16:55:22.564Z",
       "last_updated_by": "Denys Rocha"
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "dff6fe5a-da46-4f8a-a113-027285cc1b40",
+      "related_entity_ids": [
+        "b92506ba-7702-44ba-80ff-b6cbc2e6c5ab",
+        "ec6495d7-e052-4ab9-ab91-83e5594eb52c"
+      ],
+      "snippets": {
+        "trigger": "card-exemplo",
+        "languages": {
+          "html": "<div class=\"card\">\n  <image url=\"\"/>\n  <h2 class=\"titulo-card\">Título do card</h2>\n  <p class=\"texto-card\">\n    Texto do card Texto do card Texto do card Texto do card Texto do card Texto do card Texto do card Texto do card Texto do card Texto do card Texto do card Texto do card Texto do card Texto do card Texto do card Texto do card \n  </p>\n  <button class=\"botao-primario\">Ação primária</button>\n  <button class=\"botao-secundario\">Ação secundária</button>\n</div>"
+        }
+      },
+      "name": "gds-card-exemplo",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "4dd555e4-2a83-4e89-aae3-1bf8c2ea1a10",
+        "last_sync": "2021-03-04T18:45:26.259Z",
+        "sync": true
+      },
+      "last_updated": "2021-03-04T18:47:07.582Z",
+      "last_updated_by": "Denys Rocha",
+      "description": "Componente card utilizado para representar pessoas..."
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "898027bb-6d00-4a6c-8c12-ad75cb46b962",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "gds-check-box",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "de09c4db-073b-4647-8378-bc9d90a44792",
+        "last_sync": "2021-03-04T18:41:59.311Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "afa7575f-7de6-464b-b78d-2981313ecbd4",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "gds-tabela-cabecalho",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "214111d9-ddfe-4629-8db6-f3d6781cf5c3",
+        "last_sync": "2021-03-04T18:41:59.311Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "0a731b62-d3e0-4573-8689-66134d2ba895",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "gds-tabela-corpo",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "2c8a9d32-7e95-4898-85a3-ee08d18f9a78",
+        "last_sync": "2021-03-04T18:41:59.311Z",
+        "sync": true
+      }
     }
   ]
 }

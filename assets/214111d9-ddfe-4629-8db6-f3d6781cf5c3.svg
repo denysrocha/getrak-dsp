@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="301" height="50.5" viewBox="0 0 301 50.5">
+  <g id="gds-tabela-cabecalho" transform="translate(0 0.5)">
+    <path id="base" d="M0,0H301V48H0Z" transform="translate(0 1.5)" fill="#fff"/>
+    <g id="bordas">
+      <line id="Linha_2" data-name="Linha 2" x2="301" transform="translate(0 49.5)" fill="none" stroke="#6c757d" stroke-width="1"/>
+      <line id="Linha_1" data-name="Linha 1" x2="301" fill="none" stroke="#ededf1" stroke-width="1"/>
+    </g>
+    <g id="conteudo" transform="translate(-92 17.905)">
+      <text id="Cabeçalho" transform="translate(134 12)" font-size="16" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">Cabeçalho</tspan></text>
+      <g id="gds-check-box" transform="translate(104 0)">
+        <g id="base-2" data-name="base" fill="none" stroke="#6c757d" stroke-miterlimit="10" stroke-width="1">
+          <rect width="14" height="14" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="13" height="13" rx="2.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="ordenar" transform="translate(277.9 19.802)">
+      <path id="sort-up-solid" d="M24.539,61.95H17.633a.722.722,0,0,1-.493-1.227l3.453-3.562a.679.679,0,0,1,.984,0l3.453,3.562A.721.721,0,0,1,24.539,61.95Z" transform="translate(-16.934 -56.95)" fill="#6c757d"/>
+      <path id="sort-up-solid-2" data-name="sort-up-solid" d="M24.539,56.95H17.633a.722.722,0,0,0-.493,1.227l3.453,3.562a.679.679,0,0,0,.984,0l3.453-3.562A.721.721,0,0,0,24.539,56.95Z" transform="translate(-16.934 -50.555)" fill="#6c757d"/>
+    </g>
+  </g>
+</svg>

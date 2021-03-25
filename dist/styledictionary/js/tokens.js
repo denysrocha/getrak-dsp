@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 19 Feb 2021 14:15:26 GMT
+ * Generated on Thu, 25 Mar 2021 17:43:39 GMT
  */
 
 export const GdsTemaAzul = "#007fff"; // Cor para ações primárias
@@ -28,7 +28,7 @@ export const GdsGelo = "#f9f9fb";
 export const GdsAzulLuz = "#ebecff";
 export const GdsCinzaClaro = "#ededf1";
 export const GdsAzulMagenta = "#b6baf1";
-export const GdsCinza = "#b3bac5";
+export const GdsCinza = "#6c757d";
 export const GdsAzulMistico = "#656a9c";
 export const GdsAzulLavanda = "#8c91c5";
 export const GdsAzulNoite = "#303966";
@@ -42,36 +42,17 @@ export const GdsBrancoBase = "#ffffff";
 export const GdsVermelhoAlaranjado = "#c02500";
 export const GdsAzulEscuroBase = "#17224d";
 export const GdsAzulBrilhanteBase = "#007fff";
-export const GdsH5WebTextoMobileFamily = "Helvetica";
-export const GdsH5WebTextoMobileWeight = "Regular";
-export const GdsLegendaFamily = "Helvetica";
-export const GdsLegendaWeight = "Regular";
-export const GdsH4WebFamily = "Helvetica";
-export const GdsH4WebWeight = "Regular";
-export const GdsH3WebH4MobileFamily = "Helvetica";
-export const GdsH3WebH4MobileWeight = "Regular";
-export const GdsH2MobileFamily = "Helvetica";
-export const GdsH2MobileWeight = "Regular";
-export const GdsTextoWebTexto2MobileFamily = "Helvetica";
-export const GdsTextoWebTexto2MobileWeight = "Regular";
-export const GdsH5MobileFamily = "Helvetica";
-export const GdsH5MobileWeight = "Regular";
-export const GdsH2WebH3MobileFamily = "Helvetica";
-export const GdsH2WebH3MobileWeight = "Regular";
-export const GdsH1MobileFamily = "Helvetica";
-export const GdsH1MobileWeight = "Light";
-export const GdsTexto2WebFamily = "Helvetica";
-export const GdsTexto2WebWeight = "Regular";
-export const GdsH1WebFamily = "Helvetica";
-export const GdsH1WebWeight = "Light";
-export const GdsH5WebTextoMobileSize = "18px";
-export const GdsLegendaSize = "12.640000343322754px";
-export const GdsH4WebSize = "20.299999237060547px";
-export const GdsH3WebH4MobileSize = "22.780000686645508px";
-export const GdsH2MobileSize = "28.829999923706055px";
-export const GdsTextoWebTexto2MobileSize = "16px";
-export const GdsH5MobileSize = "20.25px";
-export const GdsH2WebH3MobileSize = "25.6299991607666px";
-export const GdsH1MobileSize = "32.439998626708984px";
-export const GdsTexto2WebSize = "14.220000267028809px";
-export const GdsH1WebSize = "28.829999923706055px";
+export const GdsCinzaEscuro = "#4f4f4f";
+export const GdsCinzaMedioClaro = "#b0b6ba";
+export const GdsTexto2Family = "Open Sans";
+export const GdsTexto2Weight = "Regular";
+export const GdsTituloH2Family = "Open Sans";
+export const GdsTituloH2Weight = "Semibold";
+export const GdsTituloH1Family = "Open Sans";
+export const GdsTituloH1Weight = "Regular";
+export const GdsTextoFamily = "Open Sans";
+export const GdsTextoWeight = "Regular";
+export const GdsTexto2Size = "14.220000267028809px";
+export const GdsTituloH2Size = "25.6299991607666px";
+export const GdsTituloH1Size = "28.829999923706055px";
+export const GdsTextoSize = "16px";

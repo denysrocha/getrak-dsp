@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 19 Feb 2021 14:15:26 GMT
+ * Generated on Thu, 25 Mar 2021 17:43:39 GMT
  */
 
 :root {
@@ -29,7 +29,7 @@
   --gds-azul-luz: #ebecff;
   --gds-cinza-claro: #ededf1;
   --gds-azul-magenta: #b6baf1;
-  --gds-cinza: #b3bac5;
+  --gds-cinza: #6c757d;
   --gds-azul-mistico: #656a9c;
   --gds-azul-lavanda: #8c91c5;
   --gds-azul-noite: #303966;
@@ -43,37 +43,18 @@
   --gds-vermelho-alaranjado: #c02500;
   --gds-azul-escuro-base: #17224d;
   --gds-azul-brilhante-base: #007fff;
-  --gds-h-5-web-texto-mobile-family: Helvetica;
-  --gds-h-5-web-texto-mobile-weight: Regular;
-  --gds-legenda-family: Helvetica;
-  --gds-legenda-weight: Regular;
-  --gds-h-4-web-family: Helvetica;
-  --gds-h-4-web-weight: Regular;
-  --gds-h-3-web-h-4-mobile-family: Helvetica;
-  --gds-h-3-web-h-4-mobile-weight: Regular;
-  --gds-h-2-mobile-family: Helvetica;
-  --gds-h-2-mobile-weight: Regular;
-  --gds-texto-web-texto-2-mobile-family: Helvetica;
-  --gds-texto-web-texto-2-mobile-weight: Regular;
-  --gds-h-5-mobile-family: Helvetica;
-  --gds-h-5-mobile-weight: Regular;
-  --gds-h-2-web-h-3-mobile-family: Helvetica;
-  --gds-h-2-web-h-3-mobile-weight: Regular;
-  --gds-h-1-mobile-family: Helvetica;
-  --gds-h-1-mobile-weight: Light;
-  --gds-texto-2-web-family: Helvetica;
-  --gds-texto-2-web-weight: Regular;
-  --gds-h-1-web-family: Helvetica;
-  --gds-h-1-web-weight: Light;
-  --gds-h-5-web-texto-mobile-size: 18px;
-  --gds-legenda-size: 12.640000343322754px;
-  --gds-h-4-web-size: 20.299999237060547px;
-  --gds-h-3-web-h-4-mobile-size: 22.780000686645508px;
-  --gds-h-2-mobile-size: 28.829999923706055px;
-  --gds-texto-web-texto-2-mobile-size: 16px;
-  --gds-h-5-mobile-size: 20.25px;
-  --gds-h-2-web-h-3-mobile-size: 25.6299991607666px;
-  --gds-h-1-mobile-size: 32.439998626708984px;
-  --gds-texto-2-web-size: 14.220000267028809px;
-  --gds-h-1-web-size: 28.829999923706055px;
+  --gds-cinza-escuro: #4f4f4f;
+  --gds-cinza-medio-claro: #b0b6ba;
+  --gds-texto-2-family: Open Sans;
+  --gds-texto-2-weight: Regular;
+  --gds-titulo-h-2-family: Open Sans;
+  --gds-titulo-h-2-weight: Semibold;
+  --gds-titulo-h-1-family: Open Sans;
+  --gds-titulo-h-1-weight: Regular;
+  --gds-texto-family: Open Sans;
+  --gds-texto-weight: Regular;
+  --gds-texto-2-size: 14.220000267028809px;
+  --gds-titulo-h-2-size: 25.6299991607666px;
+  --gds-titulo-h-1-size: 28.829999923706055px;
+  --gds-texto-size: 16px;
 }
