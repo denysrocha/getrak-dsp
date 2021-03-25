@@ -372,8 +372,7 @@ StyleDictionary.registerTransformGroup({
     name: 'js',
     transforms: [
         'attribute/cti',
-        'name/dsp/pascal', //replaces 'name/cti/pascal',
-        'size/px',
+        'name/dsp/camel', //replaces 'name/cti/camel',
         'color/hex',
     ]
 });
