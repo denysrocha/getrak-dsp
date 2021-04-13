@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 26 Mar 2021 15:36:33 GMT
+ * Generated on Tue, 13 Apr 2021 12:29:14 GMT
  */
 
 export const gdsTemaAzul = "#007fff"; // Cor para ações primárias
@@ -52,7 +52,13 @@ export const gdsTituloH1Family = "Open Sans";
 export const gdsTituloH1Weight = "Regular";
 export const gdsTextoFamily = "Open Sans";
 export const gdsTextoWeight = "Regular";
+export const gdsTituloH3Family = "Open Sans";
+export const gdsTituloH3Weight = "Extrabold";
+export const gdsSubtituloFamily = "Open Sans";
+export const gdsSubtituloWeight = "Bold";
 export const gdsTexto2Size = "14.220000267028809";
 export const gdsTituloH2Size = "25.6299991607666";
 export const gdsTituloH1Size = "28.829999923706055";
 export const gdsTextoSize = "16";
+export const gdsTituloH3Size = "16";
+export const gdsSubtituloSize = "14.220000267028809";

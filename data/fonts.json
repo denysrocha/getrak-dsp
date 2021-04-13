@@ -17,19 +17,19 @@
       },
       "tokens": [
         {
-          "id": "6237bb8d-c435-4615-ae6d-fcd8ea2c6380",
+          "id": "3b4b44a7-dfb9-496f-8057-c20afcc2c187",
           "type": "custom",
           "value": "Open Sans",
           "key": "family"
         },
         {
-          "id": "6237bb8d-c435-4615-ae6d-fcd8ea2c6380",
+          "id": "3b4b44a7-dfb9-496f-8057-c20afcc2c187",
           "type": "custom",
           "value": "Regular",
           "key": "weight"
         },
         {
-          "id": "6237bb8d-c435-4615-ae6d-fcd8ea2c6380",
+          "id": "3b4b44a7-dfb9-496f-8057-c20afcc2c187",
           "type": "size",
           "value": "14.220000267028809",
           "key": "size"
@@ -50,19 +50,19 @@
       },
       "tokens": [
         {
-          "id": "617fab4c-2746-498e-a4a6-f19489c1a0bb",
+          "id": "eb1f2482-85f6-4211-84c2-915b4f713007",
           "type": "custom",
           "value": "Open Sans",
           "key": "family"
         },
         {
-          "id": "617fab4c-2746-498e-a4a6-f19489c1a0bb",
+          "id": "eb1f2482-85f6-4211-84c2-915b4f713007",
           "type": "custom",
           "value": "Semibold",
           "key": "weight"
         },
         {
-          "id": "617fab4c-2746-498e-a4a6-f19489c1a0bb",
+          "id": "eb1f2482-85f6-4211-84c2-915b4f713007",
           "type": "size",
           "value": "25.6299991607666",
           "key": "size"
@@ -83,19 +83,19 @@
       },
       "tokens": [
         {
-          "id": "c9655c64-4d35-47e9-bae6-19b9a9a52963",
+          "id": "5d956530-d866-40a0-bab9-6d71a94c20c6",
           "type": "custom",
           "value": "Open Sans",
           "key": "family"
         },
         {
-          "id": "c9655c64-4d35-47e9-bae6-19b9a9a52963",
+          "id": "5d956530-d866-40a0-bab9-6d71a94c20c6",
           "type": "custom",
           "value": "Regular",
           "key": "weight"
         },
         {
-          "id": "c9655c64-4d35-47e9-bae6-19b9a9a52963",
+          "id": "5d956530-d866-40a0-bab9-6d71a94c20c6",
           "type": "size",
           "value": "28.829999923706055",
           "key": "size"
@@ -116,21 +116,87 @@
       },
       "tokens": [
         {
-          "id": "0f58f455-fb36-479c-9877-dfa580c6da6c",
+          "id": "cfde4640-5abe-4d08-9f2e-46e7a97d71c1",
           "type": "custom",
           "value": "Open Sans",
           "key": "family"
         },
         {
-          "id": "0f58f455-fb36-479c-9877-dfa580c6da6c",
+          "id": "cfde4640-5abe-4d08-9f2e-46e7a97d71c1",
           "type": "custom",
           "value": "Regular",
           "key": "weight"
         },
         {
-          "id": "0f58f455-fb36-479c-9877-dfa580c6da6c",
+          "id": "cfde4640-5abe-4d08-9f2e-46e7a97d71c1",
           "type": "size",
           "value": "16",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "0a35534c-2235-4f37-b6be-aee1993e4797",
+      "name": "gds-titulo-h3",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "2bf825af-035b-4115-92aa-90b33fb8d5b9",
+        "last_sync": "2021-04-13T12:27:51.406Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "0a35534c-2235-4f37-b6be-aee1993e4797",
+          "type": "custom",
+          "value": "Open Sans",
+          "key": "family"
+        },
+        {
+          "id": "0a35534c-2235-4f37-b6be-aee1993e4797",
+          "type": "custom",
+          "value": "Extrabold",
+          "key": "weight"
+        },
+        {
+          "id": "0a35534c-2235-4f37-b6be-aee1993e4797",
+          "type": "size",
+          "value": "16",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "e82ba2bf-5721-4c29-811a-bdcd22929299",
+      "name": "gds-subtitulo",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/d0c216d2-6cdb-4081-6a0d-b0fa17cf8cf9",
+        "id": "e0f71bdf-701a-4f51-800a-c5aee7be828c",
+        "last_sync": "2021-04-13T12:27:51.406Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "e82ba2bf-5721-4c29-811a-bdcd22929299",
+          "type": "custom",
+          "value": "Open Sans",
+          "key": "family"
+        },
+        {
+          "id": "e82ba2bf-5721-4c29-811a-bdcd22929299",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "e82ba2bf-5721-4c29-811a-bdcd22929299",
+          "type": "size",
+          "value": "14.220000267028809",
           "key": "size"
         }
       ]

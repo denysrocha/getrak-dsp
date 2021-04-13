@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 26 Mar 2021 15:36:33 GMT
+ * Generated on Tue, 13 Apr 2021 12:29:14 GMT
  */
 
 :root {
@@ -53,8 +53,14 @@
   --gds-titulo-h-1-weight: Regular;
   --gds-texto-family: Open Sans;
   --gds-texto-weight: Regular;
+  --gds-titulo-h-3-family: Open Sans;
+  --gds-titulo-h-3-weight: Extrabold;
+  --gds-subtitulo-family: Open Sans;
+  --gds-subtitulo-weight: Bold;
   --gds-texto-2-size: 14.220000267028809px;
   --gds-titulo-h-2-size: 25.6299991607666px;
   --gds-titulo-h-1-size: 28.829999923706055px;
   --gds-texto-size: 16px;
+  --gds-titulo-h-3-size: 16px;
+  --gds-subtitulo-size: 14.220000267028809px;
 }
